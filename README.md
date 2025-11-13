@@ -23,9 +23,9 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 - 💬 **Let's connect about:** Collaboration, projects, tech support, or any exciting ideas!
 
 # 🌐 Socials
-[![LinkTree](https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white)](http://linktr.ee/Xpl0iS4n)
+[![LinkTree](https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white)](http://linktr.ee/0xAeterNova)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaidtawalbeh)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@Xpl0iS4n)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@0xAeterNova)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/0xaeternova/)
 [![Telegram](https://img.shields.io/badge/Telegram-24A1DE.svg?logo=telegram&logoColor=white)](https://t.me/OxAtereNova)
 <!--[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Xpl0iS4n)-->
