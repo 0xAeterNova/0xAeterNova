@@ -21,7 +21,7 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 - 🔭 **Currently working on:** Advanced Raspberry Pi 4 Robot Module
 - 🌱 **Currently learning:** OSINT, Digital Forensics & Cryptography for CTF tournaments
 - 💬 **Let's connect about:** Collaboration, projects, tech support, or any exciting ideas!
-
+<!--
 # 🌐 Socials
 [![LinkTree](https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white)](http://linktr.ee/0xAeterNova)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaidtawalbeh)
@@ -29,7 +29,7 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/0xaeternova/)
 [![Telegram](https://img.shields.io/badge/Telegram-24A1DE.svg?logo=telegram&logoColor=white)](https://t.me/OxAtereNova)
 <!--[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xAeterNova)-->
-[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=plastic&logo=Snapchat&logoColor=white)](https://www.snapchat.com/add/zzearthandair?share_id=lodppEre4ac&locale=en-US)
+<!--[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=plastic&logo=Snapchat&logoColor=white)](https://www.snapchat.com/add/zzearthandair?share_id=lodppEre4ac&locale=en-US)
 <!--[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@0xAeterNova)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/0xAeterNova)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/0xAeterNova)
