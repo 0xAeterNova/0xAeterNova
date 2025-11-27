@@ -7,7 +7,7 @@
 </p>
 <!--
 # 🗺️ Project Timeline / Roadmap
-![Visitor Badge](https://komarev.com/ghpvc/?username=Xpl0iS4n&style=flat-square) -->
+![Visitor Badge](https://komarev.com/ghpvc/?username=0xAeterNova&style=flat-square) -->
 
 # 💫 About Me 
 I am a passionate and multidisciplinary student specializing in Robotics and Artificial Intelligence, with a dedication to advancing innovation where technology meets human progress. My academic journey is centered on developing intelligent systems, integrating advanced AI algorithms, and designing robotics solutions that address complex, real-world challenges. My approach combines technical excellence with creativity, leveraging my background in mathematics, physics, and computer science to solve problems with precision and ingenuity.
@@ -28,16 +28,16 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@0xAeterNova)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/0xaeternova/)
 [![Telegram](https://img.shields.io/badge/Telegram-24A1DE.svg?logo=telegram&logoColor=white)](https://t.me/OxAtereNova)
-<!--[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Xpl0iS4n)-->
+<!--[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xAeterNova)-->
 [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=plastic&logo=Snapchat&logoColor=white)](https://www.snapchat.com/add/zzearthandair?share_id=lodppEre4ac&locale=en-US)
-<!--[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Xpl0iS4n)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/xpl0is4n)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Xpl0iS4n)
+<!--[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@0xAeterNova)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/0xAeterNova)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/0xAeterNova)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tzearthandair@gmail.com)-->
 <!--
 ## 🌍 Dynamic Visitor Map
 <p align="center">
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Xpl0iS4n" alt="Visitor Map" width="600"/>
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=0xAeterNova" alt="Visitor Map" width="600"/>
 </p>
 -->
 <!--Snake game animation-->
@@ -46,7 +46,7 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 </div>
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Xpl0iS4n&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=0xAeterNova&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 <!--
 # 🗂️ Project & App Portfolio
 <details>
@@ -236,16 +236,16 @@ Legend:
 - [Add your articles or publications here]
 -->
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xpl0iS4n&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Xpl0iS4n&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Xpl0iS4n&theme=github_dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAeterNova&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=0xAeterNova&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=0xAeterNova&theme=github_dark&hide_border=false)
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 # 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xpl0iS4n&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xAeterNova&theme=tokyo-night)
 
 # 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Xpl0iS4n&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-[![](https://visitcount.itsvg.in/api?id=Xpl0iS4n&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-contributor-stats.vercel.app/api?username=0xAeterNova&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+[![](https://visitcount.itsvg.in/api?id=0xAeterNova&icon=0&color=0)](https://visitcount.itsvg.in)
