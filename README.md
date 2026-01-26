@@ -19,7 +19,7 @@ Beyond my core technical pursuits, I am inspired by the potential of AI and robo
 I am committed to contributing meaningful solutions that enhance lives and address global challenges. I thrive in collaborative, innovative environments where I can combine my technical skills with creative problem-solving to make a positive, lasting impact. Whether building autonomous systems, enhancing AI-driven decision-making, fortifying digital defenses, or exploring new frontiers, I aim to shape a better, more connected future.
 
 - 🔭 **Currently working on:** Advanced Raspberry Pi 4 Robot Module
-- 🌱 **Currently learning:** OSINT, Digital Forensics & Cryptography for CTF tournaments
+- 🌱 **Currently learning:** Reverse Engineering, Digital Forensics & PWN for CTF tournaments
 - 💬 **Let's connect about:** Collaboration, projects, tech support, or any exciting ideas!
 <!--
 # 🌐 Socials
