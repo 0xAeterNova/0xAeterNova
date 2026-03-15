@@ -28,7 +28,7 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@0xAeterNova)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/0xaeternova/)
 [![Telegram](https://img.shields.io/badge/Telegram-24A1DE.svg?logo=telegram&logoColor=white)](https://t.me/OxAtereNova)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)]([https://pinterest.com/0xAeterNova](https://www.pinterest.com/0xAeterNova/_profile/))
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/0xAeterNova/_profile/))
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:official.zaid.tawalbeh@gmail.com)
 <!--[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xAeterNova)-->
 <!--[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=plastic&logo=Snapchat&logoColor=white)](https://www.snapchat.com/add/zzearthandair?share_id=lodppEre4ac&locale=en-US)
