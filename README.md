@@ -225,6 +225,9 @@ Legend:
 
 # 🏅 Certifications & Achievements
 - **[Writeup Challenge Winner - Locked Temple](https://github.com/0xAeterNova/upctf-writeups/blob/main/REV/Locked%20Temple/Write-Up.md)**
+<div align="center">
+<img src="./assets/trophy-1.png" alt="GeomRavage Trophy Screenshot" width="750" />
+</div>
 <!--
 # 📝 Blog Posts or Publications
 - [How AI is Changing Robotics](#)
