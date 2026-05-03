@@ -222,12 +222,9 @@ Legend:
 # 💰 Funding
 [![PayPal](https://img.shields.io/badge/PayPal-00457C.svg?style=plastic&logo=paypal&logoColor=white)]() [![Shopify](https://img.shields.io/badge/Shopify-7AB55C.svg?style=plastic&logo=shopify&logoColor=white)]()
 -->
-<!--
+
 # 🏅 Certifications & Achievements
-- Ex.1
-- Ex.2
-- Ex.3
--->
+- **[Writeup Challenge Winner - Locked Temple](https://github.com/0xAeterNova/upctf-writeups/blob/main/REV/Locked%20Temple/Write-Up.md)**
 <!--
 # 📝 Blog Posts or Publications
 - [How AI is Changing Robotics](#)
