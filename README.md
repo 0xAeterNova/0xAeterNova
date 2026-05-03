@@ -234,13 +234,13 @@ Legend:
 - [Top 10 CTF Tips](#)
 - [Add your articles or publications here]
 -->
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAeterNova&theme=github_dark&hide_border=false&layout=compact)<br/>
+## 📊 GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAeterNova&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=0xAeterNova&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 ![](https://nirzak-streak-stats.vercel.app/?user=0xAeterNova&theme=github_dark&hide_border=false)
+<img src="https://streak-stats.demolab.com?user=0xAeterNova&theme=github_dark&hide_border=false" alt="GitHub Streak" />
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
