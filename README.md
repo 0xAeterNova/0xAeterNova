@@ -226,7 +226,7 @@ Legend:
 # 🏅 Certifications & Achievements
 - **[Writeup Challenge Winner - Locked Temple](https://github.com/0xAeterNova/upctf-writeups/blob/main/REV/Locked%20Temple/Write-Up.md)**
 <div align="center">
-<img src="./assets/trophy-1.png" alt="GeomRavage Trophy Screenshot" width="750" />
+<img src="./assets/trophy-1.png" alt="Trophy Screenshot" width="750" />
 </div>
 <!--
 # 📝 Blog Posts or Publications
@@ -235,8 +235,11 @@ Legend:
 - [Add your articles or publications here]
 -->
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAeterNova&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAeterNova&theme=github_dark&hide_border=false&layout=compact)<br/>
+
 ![](https://github-readme-stats.vercel.app/api?username=0xAeterNova&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=0xAeterNova&theme=github_dark&hide_border=false)
 
 # ✍️ Random Dev Quote
