@@ -143,10 +143,10 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=plastic&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=plastic&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=plastic&logo=android&logoColor=white)
-<!--![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=plastic&logo=arch-linux&logoColor=fff)-->
 ![Debian](https://img.shields.io/badge/Debian-D70A53.svg?style=plastic&logo=debian&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE.svg?style=plastic&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=plastic&logo=ubuntu&logoColor=white)
+<!-- ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=plastic&logo=arch-linux&logoColor=fff) -->
 
 **Tools & Platforms** </br>
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
