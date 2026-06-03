@@ -234,13 +234,12 @@ Legend:
 - [Top 10 CTF Tips](#)
 - [Add your articles or publications here]
 -->
-<!--
-## 📊 GitHub Stats
--
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAeterNova&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=0xAeterNova&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=0xAeterNova&theme=tokyonight&hide_border=false)
-<img src="https://streak-stats.demolab.com?user=0xAeterNova&theme=tokyonight&hide_border=false" alt="GitHub Streak" /> -->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=0xAeterNova&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=0xAeterNova&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=0xAeterNova&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -251,4 +250,3 @@ Legend:
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=0xAeterNova&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=0xAeterNova&icon=0&color=0)](https://visitcount.itsvg.in)-->
-
