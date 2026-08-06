@@ -123,9 +123,9 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=0xAeterNova&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://streak-stats.demolab.com/?user=0xAeterNova&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api?username=0xAeterNova&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=0xAeterNova&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=0xAeterNova&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=0xAeterNova&theme=tokyonight&hide_border=false)
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
