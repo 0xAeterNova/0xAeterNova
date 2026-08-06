@@ -122,11 +122,15 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 <img src="./assets/trophy-1.png" alt="Trophy Screenshot" width="750" />
 </div>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
+<div align="center">
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=0xAeterNova&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.shion.dev/api?username=0xAeterNova&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=0xAeterNova&theme=tokyonight&hide_border=false)
 
+<div align="left">
+  
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
