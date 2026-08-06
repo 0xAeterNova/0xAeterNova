@@ -5,9 +5,6 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="30%"/>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Bzc2x6aDE1amE1NTY3OXZvZHBkbnl4M3RxeDRmdnlka2VvOWRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" width="54%"/>
 </p>
-<!--
-# 🗺️ Project Timeline / Roadmap
-![Visitor Badge](https://komarev.com/ghpvc/?username=0xAeterNova&style=flat-square) -->
 
 # 💫 About Me 
 I am a passionate and multidisciplinary student specializing in Robotics and Artificial Intelligence, with a dedication to advancing innovation where technology meets human progress. My academic journey is centered on developing intelligent systems, integrating advanced AI algorithms, and designing robotics solutions that address complex, real-world challenges. My approach combines technical excellence with creativity, leveraging my background in mathematics, physics, and computer science to solve problems with precision and ingenuity.
@@ -29,16 +26,12 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/0xaeternova/)
 [![Telegram](https://img.shields.io/badge/Telegram-24A1DE.svg?logo=telegram&logoColor=white)](https://t.me/OxAtereNova)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/0xAeterNova/_profile/)
-<!--[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xAeterNova)-->
-<!--[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@0xAeterNova)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/0xAeterNova)
-
 <!--
-## 🌍 Dynamic Visitor Map
-<p align="center">
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=0xAeterNova" alt="Visitor Map" width="600"/>
-</p>
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]()
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]()
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)]()
 -->
+
 <!--Snake game animation-->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -46,62 +39,7 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=0xAeterNova&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-<!--
-# 🗂️ Project & App Portfolio
-<details>
-<summary><b>🤖 Robotics & Embedded Systems</b></summary>
 
-- **Advanced Raspberry Pi 4 Robot Module** – Autonomous robot platform with AI-based navigation.
-- **Arduino Projects** – Embedded control systems, sensor integration, and IoT.
-- **ROS Applications** – Robot Operating System packages for simulation and real-world robotics.
-
-</details>
-
-<details>
-<summary><b>🧠 Artificial Intelligence & Machine Learning</b></summary>
-
-- **AI Algorithms** – Deep Learning, Machine Learning, and Reinforcement Learning implementations.
-- **Data Science Projects** – Data analysis, visualization, and predictive modeling with Pandas, NumPy, Plotly.
-- **AI for Medicine** – Exploratory work on AI for diagnostics and personalized healthcare.
-
-</details>
-
-<details>
-<summary><b>🛡️ Cybersecurity & CTF</b></summary>
-
-- **CTF Write-ups** – Solutions and walkthroughs for Capture The Flag tournaments.
-- **Ethical Hacking Tools** – Scripts and utilities for penetration testing, OSINT, digital forensics, and cryptography.
-- **Secure System Design** – Research in secure architectures and data protection.
-
-</details>
-
-<details>
-<summary><b>🎮 Game Development & Simulations</b></summary>
-
-- **Unity & Unreal Engine** – Game prototypes, gameplay simulations, and educational technology applications.
-- **Godot Engine** – Open-source game development and simulation tools.
-- **Video Game Data Science** – Analysis of game mechanics and user behavior.
-
-</details>
-
-<details>
-<summary><b>🚀 Space, Physics & Mathematics</b></summary>
-
-- **Space Robotics** – Concepts and designs for AI-driven exploration systems.
-- **Physics Simulations** – Projects modeling dynamic systems and physical phenomena.
-- **Mathematical Modeling** – Analytical and computational problem-solving.
-
-</details>
-
-<details>
-<summary><b>🌐 Web, Cloud & Tools</b></summary>
-
-- **Web Apps** – HTML5, CSS3, PHP, and Python-based tools.
-- **Cloud Solutions** – Projects leveraging AWS, Azure, and Google Cloud.
-- **Automation & Scripting** – Bash, PowerShell, and general automation utilities.
-
-</details>
--->
 # 💻 Tech Stack
 **Languages & Frameworks** </br>
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white)
@@ -147,7 +85,7 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 ![Debian](https://img.shields.io/badge/Debian-D70A53.svg?style=plastic&logo=debian&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE.svg?style=plastic&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=plastic&logo=ubuntu&logoColor=white)
-<!-- ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=plastic&logo=arch-linux&logoColor=fff) -->
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=plastic&logo=arch-linux&logoColor=fff)
 
 **Tools & Platforms** </br>
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
@@ -162,12 +100,7 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=plastic&logo=Playstation&logoColor=white)
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)
-<!--![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white)
-![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=plastic&logo=Ubisoft&logoColor=black)
-![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=plastic&logo=SquareEnix&logoColor=white)
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white)
-![EA](https://img.shields.io/badge/ea-%23000000.svg?style=plastic&logo=ea&logoColor=white)
-![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=plastic&logo=battle.net&logoColor=white)-->
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white)
 
 # 🎓 Education
 ![42](https://img.shields.io/badge/-42-black.svg?style=plastic&logo=42&logoColor=white)
@@ -182,72 +115,26 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 ![Udacity](https://img.shields.io/badge/Udacity-grey.svg?style=plastic&logo=udacity&logoColor=15B8E6)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=plastic&logo=Udemy&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
-<!--
-# 📌 Pinned Projects
-| Project Name | Description | Link |
-|--------------|-------------|------|
-| Advanced Raspberry Pi 4 Robot | Autonomous robot platform with AI navigation | [Repo Link](#) |
-| CTF-Toolkit | Tools and scripts for CTF competitions | [Repo Link](#) |
-| AI for Medicine | Exploratory AI for diagnostics and healthcare | [Repo Link](#) |
-| GameSim | Game mechanics simulation and analytics | [Repo Link](#) |-->
-<!--
-# 🛠️ Skills Matrix
-| Category         | Skills/Technologies                                      |
-|------------------|---------------------------------------------------------|
-| Programming      | Python, C, C++, AssemblyScript, PHP, PowerShell         |
-| AI/ML/DL         | NumPy, Pandas, Plotly, ChatGPT, GitHub Copilot          |
-| Robotics         | ROS, Arduino, Raspberry Pi, nVIDIA, AMD                 |
-| Web/Cloud        | HTML5, CSS3, AWS, Azure, Google Cloud, Git, GitHub      |
-| OS & Platforms   | Windows, Linux, Arch, Debian, Kali, Ubuntu, Android     |
-| Tools            | Notion, Adobe, Canva, Portfolio, CMake                  |
-| Game/Simulation  | Unity, Unreal Engine, Godot, Steam, PSN, Xbox           |
-
-OR
-
-# 🛠️ Skills Matrix
-<p align="center">
-  <img src="https://your-image-link-here.png" alt="Skills Radar Chart" width="400"/>
-</p>
-
-
-Legend:
-- Programming
-- AI/ML/DL
-- Robotics
-- Web/Cloud
-- OS & Platforms
-- Tools
-- Game/Simulation
--->
-<!--
-# 💰 Funding
-[![PayPal](https://img.shields.io/badge/PayPal-00457C.svg?style=plastic&logo=paypal&logoColor=white)]() [![Shopify](https://img.shields.io/badge/Shopify-7AB55C.svg?style=plastic&logo=shopify&logoColor=white)]()
--->
 
 # 🏅 Certifications & Achievements
 - **[Writeup Challenge Winner - Locked Temple](https://github.com/0xAeterNova/upctf-writeups/blob/main/REV/Locked%20Temple/Write-Up.md)**
 <div align="center">
 <img src="./assets/trophy-1.png" alt="Trophy Screenshot" width="750" />
 </div>
-<!--
-# 📝 Blog Posts or Publications
-- [How AI is Changing Robotics](#)
-- [Top 10 CTF Tips](#)
-- [Add your articles or publications here]
--->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=0xAeterNova&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://streak-stats.demolab.com/?user=0xAeterNova&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api?username=0xAeterNova&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 # 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xAeterNova&theme=tokyo-night)
+
 <!--
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=0xAeterNova&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-[![](https://visitcount.itsvg.in/api?id=0xAeterNova&icon=0&color=0)](https://visitcount.itsvg.in)-->
+# 💰 Funding
+[![PayPal](https://img.shields.io/badge/PayPal-00457C.svg?style=plastic&logo=paypal&logoColor=white)]()
+[![Shopify](https://img.shields.io/badge/Shopify-7AB55C.svg?style=plastic&logo=shopify&logoColor=white)]()
+-->
