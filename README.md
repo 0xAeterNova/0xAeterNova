@@ -132,9 +132,15 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 <div align="left">
   
 # ✍️ Random Dev Quote
+<div align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<div align="left">
+  
 # 📈 Contribution Graph
+<div align="center">
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xAeterNova&theme=tokyo-night)
 
 <!--
