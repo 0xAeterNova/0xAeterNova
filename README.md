@@ -13,11 +13,12 @@
 </p>
 <!-- HERO QUICK LINKS END -->
 
-
+<!--
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="30%"/>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Bzc2x6aDE1amE1NTY3OXZvZHBkbnl4M3RxeDRmdnlka2VvOWRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" width="54%"/>
 </p>
+-->
 
 # 💫 About Me 
 I am a passionate and multidisciplinary student specializing in Robotics and Artificial Intelligence, with a dedication to advancing innovation where technology meets human progress. My academic journey is centered on developing intelligent systems, integrating advanced AI algorithms, and designing robotics solutions that address complex, real-world challenges. My approach combines technical excellence with creativity, leveraging my background in mathematics, physics, and computer science to solve problems with precision and ingenuity.
@@ -50,12 +51,13 @@ I am committed to contributing meaningful solutions that enhance lives and addre
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<!--
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=0xAeterNova&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-
+-->
 
 <!-- NEW FEATURED PROJECTS START -->
+<!--
 # 🚀 Featured Projects
 
 <table>
@@ -120,8 +122,8 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 </td>
 </tr>
 </table>
+-->
 <!-- NEW FEATURED PROJECTS END -->
-
 
 # 💻 Tech Stack
 **Languages & Frameworks** </br>
@@ -199,8 +201,6 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=plastic&logo=Udemy&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
 
-
-
 <!-- NEW CTF SECTION START -->
 # 🚩 CTF & Cybersecurity
 
@@ -208,10 +208,11 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 - **CTFtime Profile:** [0xAeterNova](https://ctftime.org/user/245368)
 - **Primary Categories:** Reverse Engineering and Pwn
 - **Current Training Focus:** COAE / CPTS - Hack The Box
+<!--
 - **Writeups Repository:** 
 - **Upcoming Hosted Competition:** 
+-->
 <!-- NEW CTF SECTION END -->
-
 
 # 🏅 Certifications & Achievements
 - **[Writeup Challenge Winner - Locked Temple](https://github.com/0xAeterNova/upctf-writeups/blob/main/REV/Locked%20Temple/Write-Up.md)**
@@ -219,17 +220,16 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 <img src="./assets/trophy-1.png" alt="Trophy Screenshot" width="750" />
 </div>
 
-
-
 <!-- NEW WRITING SECTION START -->
+<!--
 # 📝 Writing & Publications
 
 - **Technical Article:** 
 - **Research / Publication:** 
 - **Book / Chapter:** 
 - **CTF Writeup Collection:** 
+-->
 <!-- NEW WRITING SECTION END -->
-
 
 # 📊 GitHub Stats
 <div align="center">
@@ -246,8 +246,6 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <div align="left">
-  
-
 
 <!-- NEW JET HEATMAP SECTION START -->
 # ✈️ GitHub Jet Heatmap
@@ -260,7 +258,6 @@ I am committed to contributing meaningful solutions that enhance lives and addre
   </picture>
 </p>
 <!-- NEW JET HEATMAP SECTION END -->
-
 
 # 📈 Contribution Graph
 <div align="center">
