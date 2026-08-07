@@ -1,6 +1,3 @@
-<h1 align="center">Hello, I am Zaid Tawalbeh</h1>
-<h3 align="center">Robotics & AI/ML/DL Engineer | Malware Analysis | CTF Player | Author</h3>
-
 <!-- NEW HERO SECTION START -->
 <p align="center">
   <img src="./assets/hero/profile-hero-dark.svg" width="100%" alt="Animated GitHub profile hero" />
