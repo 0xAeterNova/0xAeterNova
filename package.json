@@ -1,0 +1,14 @@
+{
+  "name": "0xaeternova-profile-assets",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Automated SVG assets for the 0xAeterNova GitHub profile README.",
+  "scripts": {
+    "generate:heatmap": "node generate.mjs",
+    "generate:placeholder": "node generate.mjs --placeholder"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
