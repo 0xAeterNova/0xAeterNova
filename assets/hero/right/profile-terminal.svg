@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="908" height="802" viewBox="0 0 908 802" role="img" aria-labelledby="title desc">
+  <title id="title">Zaid Tawalbeh terminal profile panel</title>
+  <desc id="desc">Animated terminal profile panel with rotating professional roles, profile details, skills, and social labels.</desc>
+  <defs>
+    <linearGradient id="panelBorder" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#263B5C"/>
+      <stop offset="0.5" stop-color="#22D3EE" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0.65"/>
+      <animate attributeName="x1" values="0;1;0" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="1;0;1" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="roleGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.48" stop-color="#10B981"/>
+      <stop offset="0.72" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#9333EA"/>
+      <animate attributeName="x1" values="0;1;0" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;0;1" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="12" stdDeviation="16" flood-opacity="0.22"/></filter>
+    <filter id="noise" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="9"/><feColorMatrix type="saturate" values="0"/></filter>
+    <clipPath id="roleClip0"><rect x="0" y="-34" width="382" height="44"><animate attributeName="width" values="382;382;382;382;0;0" keyTimes="0;0.00;0.055;0.175;0.195;1" dur="25s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="roleClip1"><rect x="0" y="-34" width="0" height="44"><animate attributeName="width" values="0;0;260;260;0;0" keyTimes="0;0.20;0.255;0.375;0.395;1" dur="25s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="roleClip2"><rect x="0" y="-34" width="0" height="44"><animate attributeName="width" values="0;0;190;190;0;0" keyTimes="0;0.40;0.455;0.575;0.595;1" dur="25s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="roleClip3"><rect x="0" y="-34" width="0" height="44"><animate attributeName="width" values="0;0;290;290;0;0" keyTimes="0;0.60;0.655;0.775;0.795;1" dur="25s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="roleClip4"><rect x="0" y="-34" width="0" height="44"><animate attributeName="width" values="0;0;120;120;0;0" keyTimes="0;0.80;0.855;0.975;0.995;1" dur="25s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+
+  <rect width="908" height="802" rx="28" fill="#081225" stroke="url(#panelBorder)" stroke-width="1.5" filter="url(#shadow)"/>
+  <rect width="908" height="70" rx="28" fill="#09111F"/>
+  <rect y="42" width="908" height="28" fill="#09111F"/>
+  <rect width="908" height="802" rx="28" filter="url(#noise)" opacity="0.025"/>
+
+  <circle cx="42" cy="35" r="11" fill="#EF4444"/>
+  <circle cx="72" cy="35" r="11" fill="#F59E0B"/>
+  <circle cx="102" cy="35" r="11" fill="#10B981"/>
+  <text x="620" y="43" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20"><tspan fill="#10D9A5">root@0xaeternova</tspan><tspan fill="#9BB7E1"> :~$ whoami</tspan></text>
+
+  <text x="46" y="128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="42" font-weight="800" fill="#F8FAFC">Hi, I'm Zaid Tawalbeh</text>
+  <text x="48" y="190" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="36" fill="#9BB7E1">&gt;</text>
+    <g opacity="1">
+      <animate attributeName="opacity" values="1;1;1;1;0;0" keyTimes="0;0.00;0.055;0.175;0.195;1" dur="25s" repeatCount="indefinite"/>
+      <g transform="translate(108 188)" clip-path="url(#roleClip0)">
+        <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="29" font-weight="700" fill="url(#roleGradient)">Robotics &amp; AI Engineer</text>
+      </g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.20;0.255;0.375;0.395;1" dur="25s" repeatCount="indefinite"/>
+      <g transform="translate(108 188)" clip-path="url(#roleClip1)">
+        <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="29" font-weight="700" fill="url(#roleGradient)">Malware Analyst</text>
+      </g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.40;0.455;0.575;0.595;1" dur="25s" repeatCount="indefinite"/>
+      <g transform="translate(108 188)" clip-path="url(#roleClip2)">
+        <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="29" font-weight="700" fill="url(#roleGradient)">CTF Player</text>
+      </g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.60;0.655;0.775;0.795;1" dur="25s" repeatCount="indefinite"/>
+      <g transform="translate(108 188)" clip-path="url(#roleClip3)">
+        <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="29" font-weight="700" fill="url(#roleGradient)">ML/DL Researcher</text>
+      </g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.80;0.855;0.975;0.995;1" dur="25s" repeatCount="indefinite"/>
+      <g transform="translate(108 188)" clip-path="url(#roleClip4)">
+        <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="29" font-weight="700" fill="url(#roleGradient)">Author</text>
+      </g>
+    </g>
+  <rect x="856" y="154" width="5" height="62" fill="#22D3EE"><animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/></rect>
+  <line x1="46" y1="226" x2="860" y2="226" stroke="#243754" stroke-width="1.2"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="46" y="278" font-size="20" fill="#22D3EE">location</text><text x="220" y="278" font-size="20" fill="#9BB7E1">:</text><text x="248" y="278" font-size="20" fill="#F8FAFC">Irbid, Jordan</text>
+    <text x="46" y="326" font-size="20" fill="#22D3EE">education</text><text x="220" y="326" font-size="20" fill="#9BB7E1">:</text><text x="248" y="326" font-size="16.2" fill="#F8FAFC">Bachelor of Science (B.Sc.) in Robotics and Artificial Intelligence</text>
+    <text x="46" y="374" font-size="20" fill="#22D3EE">focus</text><text x="220" y="374" font-size="20" fill="#9BB7E1">:</text><text x="248" y="374" font-size="20" fill="#F8FAFC">COAE / CPTS - HTB</text>
+    <text x="46" y="422" font-size="20" fill="#22D3EE">portfolio</text><text x="220" y="422" font-size="20" fill="#9BB7E1">:</text>
+    <text x="46" y="470" font-size="20" fill="#22D3EE">email</text><text x="220" y="470" font-size="20" fill="#9BB7E1">:</text><a href="mailto:official.zaid.tawalbeh@gmail.com"><text x="248" y="470" font-size="18" fill="#F8FAFC">official.zaid.tawalbeh@gmail.com</text></a>
+  </g>
+
+  <text x="46" y="518" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" letter-spacing="3" fill="#9BB7E1">CORE SKILLS</text>
+    <g transform="translate(116 535)">
+      <animateTransform attributeName="transform" type="translate" values="116 535;116 533;116 535" dur="4s" begin="0.00s" repeatCount="indefinite"/>
+      <rect width="168" height="52" rx="26" fill="#0B1528" stroke="#263B5C" stroke-width="1.4">
+        <animate attributeName="stroke-opacity" values="0.48;0.95;0.48" dur="3.6s" begin="0.00s" repeatCount="indefinite"/>
+      </rect>
+      <text x="84.0" y="33" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700" fill="#F8FAFC">Assembly</text>
+    </g>
+    <g transform="translate(300 535)">
+      <animateTransform attributeName="transform" type="translate" values="300 535;300 533;300 535" dur="4s" begin="0.28s" repeatCount="indefinite"/>
+      <rect width="255" height="52" rx="26" fill="#0B1528" stroke="#263B5C" stroke-width="1.4">
+        <animate attributeName="stroke-opacity" values="0.48;0.95;0.48" dur="3.6s" begin="0.28s" repeatCount="indefinite"/>
+      </rect>
+      <text x="127.5" y="33" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700" fill="#F8FAFC">Reverse Engineering</text>
+    </g>
+    <g transform="translate(574 535)">
+      <animateTransform attributeName="transform" type="translate" values="574 535;574 533;574 535" dur="4s" begin="0.56s" repeatCount="indefinite"/>
+      <rect width="135" height="52" rx="26" fill="#0B1528" stroke="#263B5C" stroke-width="1.4">
+        <animate attributeName="stroke-opacity" values="0.48;0.95;0.48" dur="3.6s" begin="0.56s" repeatCount="indefinite"/>
+      </rect>
+      <text x="67.5" y="33" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700" fill="#F8FAFC">Python</text>
+    </g>
+    <g transform="translate(160 610)">
+      <animateTransform attributeName="transform" type="translate" values="160 610;160 608;160 610" dur="4s" begin="0.84s" repeatCount="indefinite"/>
+      <rect width="98" height="52" rx="26" fill="#0B1528" stroke="#263B5C" stroke-width="1.4">
+        <animate attributeName="stroke-opacity" values="0.48;0.95;0.48" dur="3.6s" begin="0.84s" repeatCount="indefinite"/>
+      </rect>
+      <text x="49.0" y="33" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700" fill="#F8FAFC">AI</text>
+    </g>
+    <g transform="translate(278 610)">
+      <animateTransform attributeName="transform" type="translate" values="278 610;278 608;278 610" dur="4s" begin="1.12s" repeatCount="indefinite"/>
+      <rect width="166" height="52" rx="26" fill="#0B1528" stroke="#263B5C" stroke-width="1.4">
+        <animate attributeName="stroke-opacity" values="0.48;0.95;0.48" dur="3.6s" begin="1.12s" repeatCount="indefinite"/>
+      </rect>
+      <text x="83.0" y="33" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700" fill="#F8FAFC">Robotics</text>
+    </g>
+    <g transform="translate(466 610)">
+      <animateTransform attributeName="transform" type="translate" values="466 610;466 608;466 610" dur="4s" begin="1.40s" repeatCount="indefinite"/>
+      <rect width="112" height="52" rx="26" fill="#0B1528" stroke="#263B5C" stroke-width="1.4">
+        <animate attributeName="stroke-opacity" values="0.48;0.95;0.48" dur="3.6s" begin="1.40s" repeatCount="indefinite"/>
+      </rect>
+      <text x="56.0" y="33" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700" fill="#F8FAFC">Git</text>
+    </g>
+    <g transform="translate(600 610)">
+      <animateTransform attributeName="transform" type="translate" values="600 610;600 608;600 610" dur="4s" begin="1.68s" repeatCount="indefinite"/>
+      <rect width="110" height="52" rx="26" fill="#0B1528" stroke="#263B5C" stroke-width="1.4">
+        <animate attributeName="stroke-opacity" values="0.48;0.95;0.48" dur="3.6s" begin="1.68s" repeatCount="indefinite"/>
+      </rect>
+      <text x="55.0" y="33" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700" fill="#F8FAFC">Pwn</text>
+    </g>
+
+  <line x1="46" y1="708" x2="860" y2="708" stroke="#243754" stroke-width="1.2"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700">
+    <a href="https://github.com/0xAeterNova/" target="_blank"><text x="100" y="758" fill="#22D3EE">GITHUB</text></a>
+    <text x="244" y="758" fill="#9BB7E1">/</text>
+    <a href="https://www.linkedin.com/in/zaidtawalbeh/" target="_blank"><text x="292" y="758" fill="#8B5CF6">LINKEDIN</text></a>
+    <text x="458" y="758" fill="#9BB7E1">/</text>
+    <a href="https://ctftime.org/user/245368" target="_blank"><text x="510" y="758" fill="#10D9A5">CTFTIME</text></a>
+    <text x="657" y="758" fill="#9BB7E1">/</text>
+    <a href="https://linktr.ee/0xAeterNova" target="_blank"><text x="705" y="758" fill="#F8FAFC">LINKTREE</text></a>
+  </g>
+</svg>
