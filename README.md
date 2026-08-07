@@ -1,6 +1,22 @@
 <h1 align="center">Hello, I am Zaid Tawalbeh</h1>
 <h3 align="center">Robotics & AI/ML/DL Engineer | Malware Analysis | CTF Player | Author</h3>
 
+<!-- NEW HERO SECTION START -->
+<p align="center">
+  <img src="./assets/hero/profile-hero-dark.svg" width="100%" alt="Animated GitHub profile hero" />
+</p>
+<!-- NEW HERO SECTION END -->
+
+<!-- HERO QUICK LINKS START -->
+<p align="center">
+  <a href="https://github.com/0xAeterNova/">GitHub</a> •
+  <a href="https://www.linkedin.com/in/zaidtawalbeh/">LinkedIn</a> •
+  <a href="https://ctftime.org/user/245368">CTFtime</a> •
+  <a href="https://linktr.ee/0xAeterNova">LinkTree</a>
+</p>
+<!-- HERO QUICK LINKS END -->
+
+
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="30%"/>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Bzc2x6aDE1amE1NTY3OXZvZHBkbnl4M3RxeDRmdnlka2VvOWRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" width="54%"/>
@@ -20,8 +36,8 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 - 💬 **Let's connect about:** Collaboration, projects, tech support, or any exciting ideas!
 
 # 🌐 Socials
-[![LinkTree](https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white)](http://linktr.ee/0xAeterNova)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaidtawalbeh)
+[![LinkTree](https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/0xAeterNova)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaidtawalbeh/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@0xAeterNova)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/0xaeternova/)
 [![Telegram](https://img.shields.io/badge/Telegram-24A1DE.svg?logo=telegram&logoColor=white)](https://t.me/OxAtereNova)
@@ -39,6 +55,76 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=0xAeterNova&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+<!-- NEW FEATURED PROJECTS START -->
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">📡 RuVigil</h3>
+<p>A privacy-focused, camera-free room monitoring system for presence, vital signals, fall detection, and crowd occupancy using a five-node ESP32-S3 deployment and Wi-Fi CSI sensing.</p>
+<p><strong>Technologies:</strong> ESP32-S3, Wi-Fi CSI, Rust, Python, JavaScript, TypeScript, C</p>
+<p><strong>Status:</strong> Updating and upgrading</p>
+<p><strong>Main Contribution:</strong> </p>
+<p><strong>Screenshot:</strong> </p>
+<p align="center"><a href="https://github.com/0xAeterNova/RuVigil">View Repository</a></p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">🧠 PHANTOM</h3>
+<p>A deep-learning module that behaves like a virtual behavioral analyst by identifying male-or-female presentation, estimating age, recognizing facial emotions, and analyzing emotion from voice tone.</p>
+<p><strong>Technologies:</strong> Machine Learning, Deep Learning, Computer Vision, Audio Analysis, Camera, Microphone</p>
+<p><strong>Status:</strong> Under development</p>
+<p><strong>Main Contribution:</strong> </p>
+<p><strong>Screenshot:</strong> </p>
+<p align="center"><a href="https://github.com/0xAeterNova/PHANTOM">View Repository</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🐧 Elif Linux Distribution</h3>
+<p>A custom Linux distribution designed for reverse engineering, binary exploitation, cryptography, and digital forensics workflows.</p>
+<p><strong>Technologies:</strong> Linux, Bash, Python, Shell Scripting, Security Tooling, System Customization</p>
+<p><strong>Status:</strong> v1.0.0 ready; continuing development and updates</p>
+<p><strong>Main Contribution:</strong> </p>
+<p><strong>Screenshot:</strong> </p>
+<p align="center"><a href="https://github.com/0xAeterNova/Elif-Linux-Distribution">View Repository</a></p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">Project Slot 4</h3>
+<p><strong>Repository:</strong> </p>
+<p><strong>Description:</strong> </p>
+<p><strong>Technologies:</strong> </p>
+<p><strong>Status:</strong> </p>
+<p><strong>Main Contribution:</strong> </p>
+<p><strong>Screenshot:</strong> </p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">Project Slot 5</h3>
+<p><strong>Repository:</strong> </p>
+<p><strong>Description:</strong> </p>
+<p><strong>Technologies:</strong> </p>
+<p><strong>Status:</strong> </p>
+<p><strong>Main Contribution:</strong> </p>
+<p><strong>Screenshot:</strong> </p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">Project Slot 6</h3>
+<p><strong>Repository:</strong> </p>
+<p><strong>Description:</strong> </p>
+<p><strong>Technologies:</strong> </p>
+<p><strong>Status:</strong> </p>
+<p><strong>Main Contribution:</strong> </p>
+<p><strong>Screenshot:</strong> </p>
+</td>
+</tr>
+</table>
+<!-- NEW FEATURED PROJECTS END -->
+
 
 # 💻 Tech Stack
 **Languages & Frameworks** </br>
@@ -116,11 +202,37 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=plastic&logo=Udemy&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
 
+
+
+<!-- NEW CTF SECTION START -->
+# 🚩 CTF & Cybersecurity
+
+- **Team:** [GeomRavage](https://ctftime.org/team/412925)
+- **CTFtime Profile:** [0xAeterNova](https://ctftime.org/user/245368)
+- **Primary Categories:** Reverse Engineering and Pwn
+- **Current Training Focus:** COAE / CPTS - Hack The Box
+- **Writeups Repository:** 
+- **Upcoming Hosted Competition:** 
+<!-- NEW CTF SECTION END -->
+
+
 # 🏅 Certifications & Achievements
 - **[Writeup Challenge Winner - Locked Temple](https://github.com/0xAeterNova/upctf-writeups/blob/main/REV/Locked%20Temple/Write-Up.md)**
 <div align="center">
 <img src="./assets/trophy-1.png" alt="Trophy Screenshot" width="750" />
 </div>
+
+
+
+<!-- NEW WRITING SECTION START -->
+# 📝 Writing & Publications
+
+- **Technical Article:** 
+- **Research / Publication:** 
+- **Book / Chapter:** 
+- **CTF Writeup Collection:** 
+<!-- NEW WRITING SECTION END -->
+
 
 # 📊 GitHub Stats
 <div align="center">
@@ -138,6 +250,21 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 
 <div align="left">
   
+
+
+<!-- NEW JET HEATMAP SECTION START -->
+# ✈️ GitHub Jet Heatmap
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/heatmap/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/heatmap/light.svg">
+    <img src="./assets/heatmap/dark.svg" alt="Animated GitHub contribution heatmap" width="100%">
+  </picture>
+</p>
+<!-- NEW JET HEATMAP SECTION END -->
+
+
 # 📈 Contribution Graph
 <div align="center">
 
