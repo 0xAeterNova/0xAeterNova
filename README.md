@@ -65,10 +65,8 @@ I am committed to contributing meaningful solutions that enhance lives and addre
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=0xAeterNova.0xAeterNova&"  />
 </div>
 
-<!--
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=0xAeterNova&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
--->
+![](https://github-profile-trophy.profile-readme-generator.com/?username=0xAeterNova&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4)
 
 <!-- NEW FEATURED PROJECTS START -->
 <!--
