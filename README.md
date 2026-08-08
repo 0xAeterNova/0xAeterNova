@@ -47,18 +47,24 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 -->
 
 <!--Snake game animation-->
-<!--
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div
+
+<!--Vistor Counter-->
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=0xAeterNova.0xAeterNova&"  />
 </div>
--->
 
 <!--Arcade Animation-->
+<!--
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xAeterNova/0xAeterNova/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xAeterNova/0xAeterNova/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/0xAeterNova/0xAeterNova/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+-->
 
 <!--
 # 🏆 GitHub Trophies
