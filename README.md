@@ -281,3 +281,4 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 [![PayPal](https://img.shields.io/badge/PayPal-00457C.svg?style=plastic&logo=paypal&logoColor=white)]()
 [![Shopify](https://img.shields.io/badge/Shopify-7AB55C.svg?style=plastic&logo=shopify&logoColor=white)]()
 -->
+
