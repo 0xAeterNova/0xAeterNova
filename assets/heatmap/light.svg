@@ -20,18 +20,18 @@
   <text x="54" y="61" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="800" fill="#0F172A">GitHub Jet Heatmap</text>
   <text x="54" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">174 contributions in the displayed period</text>
   <text x="88" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">Aug</text>
-<text x="139" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">Sep</text>
-<text x="207" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">Oct</text>
-<text x="275" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">Nov</text>
-<text x="360" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">Dec</text>
-<text x="428" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">Jan</text>
-<text x="496" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">Feb</text>
-<text x="564" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">Mar</text>
-<text x="649" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">Apr</text>
-<text x="717" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">May</text>
-<text x="802" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">Jun</text>
-<text x="870" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">Jul</text>
-<text x="938" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">Aug</text>
+<text x="122" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">Sep</text>
+<text x="190" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">Oct</text>
+<text x="258" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">Nov</text>
+<text x="343" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">Dec</text>
+<text x="411" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">Jan</text>
+<text x="479" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">Feb</text>
+<text x="547" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">Mar</text>
+<text x="632" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">Apr</text>
+<text x="700" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">May</text>
+<text x="785" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">Jun</text>
+<text x="853" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">Jul</text>
+<text x="921" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">Aug</text>
   <text x="53" y="121" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#475569">Mon</text>
   <text x="53" y="155" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#475569">Wed</text>
   <text x="53" y="189" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#475569">Fri</text>
@@ -41,7 +41,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.000s" fill="freeze"/>
             
           </rect>
-          <title>2025-08-17: 0 contributions</title>
+          <title>2025-08-24: 0 contributions</title>
         </g>
 
         <g transform="translate(88 125)">
@@ -49,7 +49,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.009s" fill="freeze"/>
             
           </rect>
-          <title>2025-08-18: 0 contributions</title>
+          <title>2025-08-25: 0 contributions</title>
         </g>
 
         <g transform="translate(88 142)">
@@ -57,7 +57,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.018s" fill="freeze"/>
             
           </rect>
-          <title>2025-08-19: 0 contributions</title>
+          <title>2025-08-26: 0 contributions</title>
         </g>
 
         <g transform="translate(88 159)">
@@ -65,7 +65,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.027s" fill="freeze"/>
             
           </rect>
-          <title>2025-08-20: 0 contributions</title>
+          <title>2025-08-27: 0 contributions</title>
         </g>
 
         <g transform="translate(88 176)">
@@ -73,7 +73,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.036s" fill="freeze"/>
             
           </rect>
-          <title>2025-08-21: 0 contributions</title>
+          <title>2025-08-28: 0 contributions</title>
         </g>
 
         <g transform="translate(88 193)">
@@ -81,7 +81,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.045s" fill="freeze"/>
             
           </rect>
-          <title>2025-08-22: 0 contributions</title>
+          <title>2025-08-29: 0 contributions</title>
         </g>
 
         <g transform="translate(88 210)">
@@ -89,15 +89,15 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.054s" fill="freeze"/>
             
           </rect>
-          <title>2025-08-23: 0 contributions</title>
+          <title>2025-08-30: 0 contributions</title>
         </g>
 
         <g transform="translate(105 108)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.063s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-0.063s" repeatCount="indefinite"/>
           </rect>
-          <title>2025-08-24: 0 contributions</title>
+          <title>2025-08-31: 1 contribution</title>
         </g>
 
         <g transform="translate(105 125)">
@@ -105,7 +105,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.072s" fill="freeze"/>
             
           </rect>
-          <title>2025-08-25: 0 contributions</title>
+          <title>2025-09-01: 0 contributions</title>
         </g>
 
         <g transform="translate(105 142)">
@@ -113,7 +113,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.081s" fill="freeze"/>
             
           </rect>
-          <title>2025-08-26: 0 contributions</title>
+          <title>2025-09-02: 0 contributions</title>
         </g>
 
         <g transform="translate(105 159)">
@@ -121,7 +121,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.090s" fill="freeze"/>
             
           </rect>
-          <title>2025-08-27: 0 contributions</title>
+          <title>2025-09-03: 0 contributions</title>
         </g>
 
         <g transform="translate(105 176)">
@@ -129,7 +129,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.099s" fill="freeze"/>
             
           </rect>
-          <title>2025-08-28: 0 contributions</title>
+          <title>2025-09-04: 0 contributions</title>
         </g>
 
         <g transform="translate(105 193)">
@@ -137,7 +137,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.108s" fill="freeze"/>
             
           </rect>
-          <title>2025-08-29: 0 contributions</title>
+          <title>2025-09-05: 0 contributions</title>
         </g>
 
         <g transform="translate(105 210)">
@@ -145,15 +145,15 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.117s" fill="freeze"/>
             
           </rect>
-          <title>2025-08-30: 0 contributions</title>
+          <title>2025-09-06: 0 contributions</title>
         </g>
 
         <g transform="translate(122 108)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.126s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-0.126s" repeatCount="indefinite"/>
+            
           </rect>
-          <title>2025-08-31: 1 contribution</title>
+          <title>2025-09-07: 0 contributions</title>
         </g>
 
         <g transform="translate(122 125)">
@@ -161,7 +161,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.135s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-01: 0 contributions</title>
+          <title>2025-09-08: 0 contributions</title>
         </g>
 
         <g transform="translate(122 142)">
@@ -169,7 +169,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.144s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-02: 0 contributions</title>
+          <title>2025-09-09: 0 contributions</title>
         </g>
 
         <g transform="translate(122 159)">
@@ -177,7 +177,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.153s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-03: 0 contributions</title>
+          <title>2025-09-10: 0 contributions</title>
         </g>
 
         <g transform="translate(122 176)">
@@ -185,7 +185,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.162s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-04: 0 contributions</title>
+          <title>2025-09-11: 0 contributions</title>
         </g>
 
         <g transform="translate(122 193)">
@@ -193,7 +193,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.171s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-05: 0 contributions</title>
+          <title>2025-09-12: 0 contributions</title>
         </g>
 
         <g transform="translate(122 210)">
@@ -201,7 +201,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.180s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-06: 0 contributions</title>
+          <title>2025-09-13: 0 contributions</title>
         </g>
 
         <g transform="translate(139 108)">
@@ -209,7 +209,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.189s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-07: 0 contributions</title>
+          <title>2025-09-14: 0 contributions</title>
         </g>
 
         <g transform="translate(139 125)">
@@ -217,7 +217,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.198s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-08: 0 contributions</title>
+          <title>2025-09-15: 0 contributions</title>
         </g>
 
         <g transform="translate(139 142)">
@@ -225,7 +225,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.207s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-09: 0 contributions</title>
+          <title>2025-09-16: 0 contributions</title>
         </g>
 
         <g transform="translate(139 159)">
@@ -233,7 +233,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.216s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-10: 0 contributions</title>
+          <title>2025-09-17: 0 contributions</title>
         </g>
 
         <g transform="translate(139 176)">
@@ -241,7 +241,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.225s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-11: 0 contributions</title>
+          <title>2025-09-18: 0 contributions</title>
         </g>
 
         <g transform="translate(139 193)">
@@ -249,7 +249,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.234s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-12: 0 contributions</title>
+          <title>2025-09-19: 0 contributions</title>
         </g>
 
         <g transform="translate(139 210)">
@@ -257,7 +257,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.243s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-13: 0 contributions</title>
+          <title>2025-09-20: 0 contributions</title>
         </g>
 
         <g transform="translate(156 108)">
@@ -265,7 +265,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.252s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-14: 0 contributions</title>
+          <title>2025-09-21: 0 contributions</title>
         </g>
 
         <g transform="translate(156 125)">
@@ -273,7 +273,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.261s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-15: 0 contributions</title>
+          <title>2025-09-22: 0 contributions</title>
         </g>
 
         <g transform="translate(156 142)">
@@ -281,15 +281,15 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.270s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-16: 0 contributions</title>
+          <title>2025-09-23: 0 contributions</title>
         </g>
 
         <g transform="translate(156 159)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.279s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-0.279s" repeatCount="indefinite"/>
           </rect>
-          <title>2025-09-17: 0 contributions</title>
+          <title>2025-09-24: 1 contribution</title>
         </g>
 
         <g transform="translate(156 176)">
@@ -297,7 +297,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.288s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-18: 0 contributions</title>
+          <title>2025-09-25: 0 contributions</title>
         </g>
 
         <g transform="translate(156 193)">
@@ -305,7 +305,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.297s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-19: 0 contributions</title>
+          <title>2025-09-26: 0 contributions</title>
         </g>
 
         <g transform="translate(156 210)">
@@ -313,7 +313,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.306s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-20: 0 contributions</title>
+          <title>2025-09-27: 0 contributions</title>
         </g>
 
         <g transform="translate(173 108)">
@@ -321,7 +321,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.315s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-21: 0 contributions</title>
+          <title>2025-09-28: 0 contributions</title>
         </g>
 
         <g transform="translate(173 125)">
@@ -329,7 +329,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.324s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-22: 0 contributions</title>
+          <title>2025-09-29: 0 contributions</title>
         </g>
 
         <g transform="translate(173 142)">
@@ -337,15 +337,15 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.333s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-23: 0 contributions</title>
+          <title>2025-09-30: 0 contributions</title>
         </g>
 
         <g transform="translate(173 159)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.342s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-0.342s" repeatCount="indefinite"/>
+            
           </rect>
-          <title>2025-09-24: 1 contribution</title>
+          <title>2025-10-01: 0 contributions</title>
         </g>
 
         <g transform="translate(173 176)">
@@ -353,7 +353,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.351s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-25: 0 contributions</title>
+          <title>2025-10-02: 0 contributions</title>
         </g>
 
         <g transform="translate(173 193)">
@@ -361,7 +361,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.360s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-26: 0 contributions</title>
+          <title>2025-10-03: 0 contributions</title>
         </g>
 
         <g transform="translate(173 210)">
@@ -369,7 +369,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.369s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-27: 0 contributions</title>
+          <title>2025-10-04: 0 contributions</title>
         </g>
 
         <g transform="translate(190 108)">
@@ -377,7 +377,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.378s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-28: 0 contributions</title>
+          <title>2025-10-05: 0 contributions</title>
         </g>
 
         <g transform="translate(190 125)">
@@ -385,7 +385,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.387s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-29: 0 contributions</title>
+          <title>2025-10-06: 0 contributions</title>
         </g>
 
         <g transform="translate(190 142)">
@@ -393,7 +393,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.396s" fill="freeze"/>
             
           </rect>
-          <title>2025-09-30: 0 contributions</title>
+          <title>2025-10-07: 0 contributions</title>
         </g>
 
         <g transform="translate(190 159)">
@@ -401,7 +401,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.405s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-01: 0 contributions</title>
+          <title>2025-10-08: 0 contributions</title>
         </g>
 
         <g transform="translate(190 176)">
@@ -409,7 +409,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.414s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-02: 0 contributions</title>
+          <title>2025-10-09: 0 contributions</title>
         </g>
 
         <g transform="translate(190 193)">
@@ -417,7 +417,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.423s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-03: 0 contributions</title>
+          <title>2025-10-10: 0 contributions</title>
         </g>
 
         <g transform="translate(190 210)">
@@ -425,7 +425,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.432s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-04: 0 contributions</title>
+          <title>2025-10-11: 0 contributions</title>
         </g>
 
         <g transform="translate(207 108)">
@@ -433,7 +433,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.441s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-05: 0 contributions</title>
+          <title>2025-10-12: 0 contributions</title>
         </g>
 
         <g transform="translate(207 125)">
@@ -441,7 +441,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.450s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-06: 0 contributions</title>
+          <title>2025-10-13: 0 contributions</title>
         </g>
 
         <g transform="translate(207 142)">
@@ -449,7 +449,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.459s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-07: 0 contributions</title>
+          <title>2025-10-14: 0 contributions</title>
         </g>
 
         <g transform="translate(207 159)">
@@ -457,7 +457,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.468s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-08: 0 contributions</title>
+          <title>2025-10-15: 0 contributions</title>
         </g>
 
         <g transform="translate(207 176)">
@@ -465,7 +465,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.477s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-09: 0 contributions</title>
+          <title>2025-10-16: 0 contributions</title>
         </g>
 
         <g transform="translate(207 193)">
@@ -473,7 +473,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.486s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-10: 0 contributions</title>
+          <title>2025-10-17: 0 contributions</title>
         </g>
 
         <g transform="translate(207 210)">
@@ -481,7 +481,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.495s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-11: 0 contributions</title>
+          <title>2025-10-18: 0 contributions</title>
         </g>
 
         <g transform="translate(224 108)">
@@ -489,7 +489,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.504s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-12: 0 contributions</title>
+          <title>2025-10-19: 0 contributions</title>
         </g>
 
         <g transform="translate(224 125)">
@@ -497,7 +497,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.513s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-13: 0 contributions</title>
+          <title>2025-10-20: 0 contributions</title>
         </g>
 
         <g transform="translate(224 142)">
@@ -505,7 +505,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.522s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-14: 0 contributions</title>
+          <title>2025-10-21: 0 contributions</title>
         </g>
 
         <g transform="translate(224 159)">
@@ -513,7 +513,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.531s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-15: 0 contributions</title>
+          <title>2025-10-22: 0 contributions</title>
         </g>
 
         <g transform="translate(224 176)">
@@ -521,7 +521,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.540s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-16: 0 contributions</title>
+          <title>2025-10-23: 0 contributions</title>
         </g>
 
         <g transform="translate(224 193)">
@@ -529,7 +529,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.549s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-17: 0 contributions</title>
+          <title>2025-10-24: 0 contributions</title>
         </g>
 
         <g transform="translate(224 210)">
@@ -537,7 +537,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.558s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-18: 0 contributions</title>
+          <title>2025-10-25: 0 contributions</title>
         </g>
 
         <g transform="translate(241 108)">
@@ -545,7 +545,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.567s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-19: 0 contributions</title>
+          <title>2025-10-26: 0 contributions</title>
         </g>
 
         <g transform="translate(241 125)">
@@ -553,7 +553,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.576s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-20: 0 contributions</title>
+          <title>2025-10-27: 0 contributions</title>
         </g>
 
         <g transform="translate(241 142)">
@@ -561,7 +561,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.585s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-21: 0 contributions</title>
+          <title>2025-10-28: 0 contributions</title>
         </g>
 
         <g transform="translate(241 159)">
@@ -569,7 +569,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.594s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-22: 0 contributions</title>
+          <title>2025-10-29: 0 contributions</title>
         </g>
 
         <g transform="translate(241 176)">
@@ -577,7 +577,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.603s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-23: 0 contributions</title>
+          <title>2025-10-30: 0 contributions</title>
         </g>
 
         <g transform="translate(241 193)">
@@ -585,7 +585,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.612s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-24: 0 contributions</title>
+          <title>2025-10-31: 0 contributions</title>
         </g>
 
         <g transform="translate(241 210)">
@@ -593,7 +593,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.621s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-25: 0 contributions</title>
+          <title>2025-11-01: 0 contributions</title>
         </g>
 
         <g transform="translate(258 108)">
@@ -601,7 +601,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.630s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-26: 0 contributions</title>
+          <title>2025-11-02: 0 contributions</title>
         </g>
 
         <g transform="translate(258 125)">
@@ -609,7 +609,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.639s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-27: 0 contributions</title>
+          <title>2025-11-03: 0 contributions</title>
         </g>
 
         <g transform="translate(258 142)">
@@ -617,7 +617,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.648s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-28: 0 contributions</title>
+          <title>2025-11-04: 0 contributions</title>
         </g>
 
         <g transform="translate(258 159)">
@@ -625,7 +625,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.657s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-29: 0 contributions</title>
+          <title>2025-11-05: 0 contributions</title>
         </g>
 
         <g transform="translate(258 176)">
@@ -633,7 +633,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.666s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-30: 0 contributions</title>
+          <title>2025-11-06: 0 contributions</title>
         </g>
 
         <g transform="translate(258 193)">
@@ -641,7 +641,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.675s" fill="freeze"/>
             
           </rect>
-          <title>2025-10-31: 0 contributions</title>
+          <title>2025-11-07: 0 contributions</title>
         </g>
 
         <g transform="translate(258 210)">
@@ -649,7 +649,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.684s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-01: 0 contributions</title>
+          <title>2025-11-08: 0 contributions</title>
         </g>
 
         <g transform="translate(275 108)">
@@ -657,7 +657,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.693s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-02: 0 contributions</title>
+          <title>2025-11-09: 0 contributions</title>
         </g>
 
         <g transform="translate(275 125)">
@@ -665,7 +665,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.702s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-03: 0 contributions</title>
+          <title>2025-11-10: 0 contributions</title>
         </g>
 
         <g transform="translate(275 142)">
@@ -673,7 +673,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.711s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-04: 0 contributions</title>
+          <title>2025-11-11: 0 contributions</title>
         </g>
 
         <g transform="translate(275 159)">
@@ -681,15 +681,15 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.720s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-05: 0 contributions</title>
+          <title>2025-11-12: 0 contributions</title>
         </g>
 
         <g transform="translate(275 176)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.729s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-0.729s" repeatCount="indefinite"/>
           </rect>
-          <title>2025-11-06: 0 contributions</title>
+          <title>2025-11-13: 1 contribution</title>
         </g>
 
         <g transform="translate(275 193)">
@@ -697,7 +697,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.738s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-07: 0 contributions</title>
+          <title>2025-11-14: 0 contributions</title>
         </g>
 
         <g transform="translate(275 210)">
@@ -705,7 +705,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.747s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-08: 0 contributions</title>
+          <title>2025-11-15: 0 contributions</title>
         </g>
 
         <g transform="translate(292 108)">
@@ -713,7 +713,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.756s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-09: 0 contributions</title>
+          <title>2025-11-16: 0 contributions</title>
         </g>
 
         <g transform="translate(292 125)">
@@ -721,7 +721,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.765s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-10: 0 contributions</title>
+          <title>2025-11-17: 0 contributions</title>
         </g>
 
         <g transform="translate(292 142)">
@@ -729,7 +729,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.774s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-11: 0 contributions</title>
+          <title>2025-11-18: 0 contributions</title>
         </g>
 
         <g transform="translate(292 159)">
@@ -737,15 +737,15 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.783s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-12: 0 contributions</title>
+          <title>2025-11-19: 0 contributions</title>
         </g>
 
         <g transform="translate(292 176)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.792s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-0.792s" repeatCount="indefinite"/>
+            
           </rect>
-          <title>2025-11-13: 1 contribution</title>
+          <title>2025-11-20: 0 contributions</title>
         </g>
 
         <g transform="translate(292 193)">
@@ -753,7 +753,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.801s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-14: 0 contributions</title>
+          <title>2025-11-21: 0 contributions</title>
         </g>
 
         <g transform="translate(292 210)">
@@ -761,7 +761,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.810s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-15: 0 contributions</title>
+          <title>2025-11-22: 0 contributions</title>
         </g>
 
         <g transform="translate(309 108)">
@@ -769,7 +769,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.819s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-16: 0 contributions</title>
+          <title>2025-11-23: 0 contributions</title>
         </g>
 
         <g transform="translate(309 125)">
@@ -777,7 +777,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.828s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-17: 0 contributions</title>
+          <title>2025-11-24: 0 contributions</title>
         </g>
 
         <g transform="translate(309 142)">
@@ -785,7 +785,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.837s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-18: 0 contributions</title>
+          <title>2025-11-25: 0 contributions</title>
         </g>
 
         <g transform="translate(309 159)">
@@ -793,7 +793,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.846s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-19: 0 contributions</title>
+          <title>2025-11-26: 0 contributions</title>
         </g>
 
         <g transform="translate(309 176)">
@@ -801,7 +801,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.855s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-20: 0 contributions</title>
+          <title>2025-11-27: 0 contributions</title>
         </g>
 
         <g transform="translate(309 193)">
@@ -809,7 +809,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.864s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-21: 0 contributions</title>
+          <title>2025-11-28: 0 contributions</title>
         </g>
 
         <g transform="translate(309 210)">
@@ -817,7 +817,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.873s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-22: 0 contributions</title>
+          <title>2025-11-29: 0 contributions</title>
         </g>
 
         <g transform="translate(326 108)">
@@ -825,7 +825,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.882s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-23: 0 contributions</title>
+          <title>2025-11-30: 0 contributions</title>
         </g>
 
         <g transform="translate(326 125)">
@@ -833,7 +833,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.891s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-24: 0 contributions</title>
+          <title>2025-12-01: 0 contributions</title>
         </g>
 
         <g transform="translate(326 142)">
@@ -841,7 +841,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.900s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-25: 0 contributions</title>
+          <title>2025-12-02: 0 contributions</title>
         </g>
 
         <g transform="translate(326 159)">
@@ -849,7 +849,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.909s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-26: 0 contributions</title>
+          <title>2025-12-03: 0 contributions</title>
         </g>
 
         <g transform="translate(326 176)">
@@ -857,7 +857,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.918s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-27: 0 contributions</title>
+          <title>2025-12-04: 0 contributions</title>
         </g>
 
         <g transform="translate(326 193)">
@@ -865,7 +865,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.927s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-28: 0 contributions</title>
+          <title>2025-12-05: 0 contributions</title>
         </g>
 
         <g transform="translate(326 210)">
@@ -873,7 +873,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.936s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-29: 0 contributions</title>
+          <title>2025-12-06: 0 contributions</title>
         </g>
 
         <g transform="translate(343 108)">
@@ -881,7 +881,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.945s" fill="freeze"/>
             
           </rect>
-          <title>2025-11-30: 0 contributions</title>
+          <title>2025-12-07: 0 contributions</title>
         </g>
 
         <g transform="translate(343 125)">
@@ -889,7 +889,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.954s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-01: 0 contributions</title>
+          <title>2025-12-08: 0 contributions</title>
         </g>
 
         <g transform="translate(343 142)">
@@ -897,7 +897,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.963s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-02: 0 contributions</title>
+          <title>2025-12-09: 0 contributions</title>
         </g>
 
         <g transform="translate(343 159)">
@@ -905,7 +905,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.972s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-03: 0 contributions</title>
+          <title>2025-12-10: 0 contributions</title>
         </g>
 
         <g transform="translate(343 176)">
@@ -913,7 +913,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.981s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-04: 0 contributions</title>
+          <title>2025-12-11: 0 contributions</title>
         </g>
 
         <g transform="translate(343 193)">
@@ -921,7 +921,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.990s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-05: 0 contributions</title>
+          <title>2025-12-12: 0 contributions</title>
         </g>
 
         <g transform="translate(343 210)">
@@ -929,7 +929,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="0.999s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-06: 0 contributions</title>
+          <title>2025-12-13: 0 contributions</title>
         </g>
 
         <g transform="translate(360 108)">
@@ -937,7 +937,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.008s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-07: 0 contributions</title>
+          <title>2025-12-14: 0 contributions</title>
         </g>
 
         <g transform="translate(360 125)">
@@ -945,7 +945,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.017s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-08: 0 contributions</title>
+          <title>2025-12-15: 0 contributions</title>
         </g>
 
         <g transform="translate(360 142)">
@@ -953,7 +953,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.026s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-09: 0 contributions</title>
+          <title>2025-12-16: 0 contributions</title>
         </g>
 
         <g transform="translate(360 159)">
@@ -961,7 +961,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.035s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-10: 0 contributions</title>
+          <title>2025-12-17: 0 contributions</title>
         </g>
 
         <g transform="translate(360 176)">
@@ -969,7 +969,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.044s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-11: 0 contributions</title>
+          <title>2025-12-18: 0 contributions</title>
         </g>
 
         <g transform="translate(360 193)">
@@ -977,7 +977,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.053s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-12: 0 contributions</title>
+          <title>2025-12-19: 0 contributions</title>
         </g>
 
         <g transform="translate(360 210)">
@@ -985,7 +985,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.062s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-13: 0 contributions</title>
+          <title>2025-12-20: 0 contributions</title>
         </g>
 
         <g transform="translate(377 108)">
@@ -993,7 +993,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.071s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-14: 0 contributions</title>
+          <title>2025-12-21: 0 contributions</title>
         </g>
 
         <g transform="translate(377 125)">
@@ -1001,7 +1001,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.080s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-15: 0 contributions</title>
+          <title>2025-12-22: 0 contributions</title>
         </g>
 
         <g transform="translate(377 142)">
@@ -1009,7 +1009,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.089s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-16: 0 contributions</title>
+          <title>2025-12-23: 0 contributions</title>
         </g>
 
         <g transform="translate(377 159)">
@@ -1017,7 +1017,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.098s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-17: 0 contributions</title>
+          <title>2025-12-24: 0 contributions</title>
         </g>
 
         <g transform="translate(377 176)">
@@ -1025,7 +1025,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.107s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-18: 0 contributions</title>
+          <title>2025-12-25: 0 contributions</title>
         </g>
 
         <g transform="translate(377 193)">
@@ -1033,7 +1033,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.116s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-19: 0 contributions</title>
+          <title>2025-12-26: 0 contributions</title>
         </g>
 
         <g transform="translate(377 210)">
@@ -1041,7 +1041,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.125s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-20: 0 contributions</title>
+          <title>2025-12-27: 0 contributions</title>
         </g>
 
         <g transform="translate(394 108)">
@@ -1049,7 +1049,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.134s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-21: 0 contributions</title>
+          <title>2025-12-28: 0 contributions</title>
         </g>
 
         <g transform="translate(394 125)">
@@ -1057,7 +1057,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.143s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-22: 0 contributions</title>
+          <title>2025-12-29: 0 contributions</title>
         </g>
 
         <g transform="translate(394 142)">
@@ -1065,7 +1065,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.152s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-23: 0 contributions</title>
+          <title>2025-12-30: 0 contributions</title>
         </g>
 
         <g transform="translate(394 159)">
@@ -1073,7 +1073,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.161s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-24: 0 contributions</title>
+          <title>2025-12-31: 0 contributions</title>
         </g>
 
         <g transform="translate(394 176)">
@@ -1081,7 +1081,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.170s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-25: 0 contributions</title>
+          <title>2026-01-01: 0 contributions</title>
         </g>
 
         <g transform="translate(394 193)">
@@ -1089,7 +1089,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.179s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-26: 0 contributions</title>
+          <title>2026-01-02: 0 contributions</title>
         </g>
 
         <g transform="translate(394 210)">
@@ -1097,7 +1097,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.188s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-27: 0 contributions</title>
+          <title>2026-01-03: 0 contributions</title>
         </g>
 
         <g transform="translate(411 108)">
@@ -1105,7 +1105,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.197s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-28: 0 contributions</title>
+          <title>2026-01-04: 0 contributions</title>
         </g>
 
         <g transform="translate(411 125)">
@@ -1113,7 +1113,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.206s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-29: 0 contributions</title>
+          <title>2026-01-05: 0 contributions</title>
         </g>
 
         <g transform="translate(411 142)">
@@ -1121,7 +1121,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.215s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-30: 0 contributions</title>
+          <title>2026-01-06: 0 contributions</title>
         </g>
 
         <g transform="translate(411 159)">
@@ -1129,7 +1129,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.224s" fill="freeze"/>
             
           </rect>
-          <title>2025-12-31: 0 contributions</title>
+          <title>2026-01-07: 0 contributions</title>
         </g>
 
         <g transform="translate(411 176)">
@@ -1137,7 +1137,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.233s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-01: 0 contributions</title>
+          <title>2026-01-08: 0 contributions</title>
         </g>
 
         <g transform="translate(411 193)">
@@ -1145,7 +1145,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.242s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-02: 0 contributions</title>
+          <title>2026-01-09: 0 contributions</title>
         </g>
 
         <g transform="translate(411 210)">
@@ -1153,7 +1153,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.251s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-03: 0 contributions</title>
+          <title>2026-01-10: 0 contributions</title>
         </g>
 
         <g transform="translate(428 108)">
@@ -1161,7 +1161,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.260s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-04: 0 contributions</title>
+          <title>2026-01-11: 0 contributions</title>
         </g>
 
         <g transform="translate(428 125)">
@@ -1169,7 +1169,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.269s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-05: 0 contributions</title>
+          <title>2026-01-12: 0 contributions</title>
         </g>
 
         <g transform="translate(428 142)">
@@ -1177,7 +1177,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.278s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-06: 0 contributions</title>
+          <title>2026-01-13: 0 contributions</title>
         </g>
 
         <g transform="translate(428 159)">
@@ -1185,7 +1185,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.287s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-07: 0 contributions</title>
+          <title>2026-01-14: 0 contributions</title>
         </g>
 
         <g transform="translate(428 176)">
@@ -1193,7 +1193,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.296s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-08: 0 contributions</title>
+          <title>2026-01-15: 0 contributions</title>
         </g>
 
         <g transform="translate(428 193)">
@@ -1201,7 +1201,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.305s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-09: 0 contributions</title>
+          <title>2026-01-16: 0 contributions</title>
         </g>
 
         <g transform="translate(428 210)">
@@ -1209,7 +1209,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.314s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-10: 0 contributions</title>
+          <title>2026-01-17: 0 contributions</title>
         </g>
 
         <g transform="translate(445 108)">
@@ -1217,7 +1217,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.323s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-11: 0 contributions</title>
+          <title>2026-01-18: 0 contributions</title>
         </g>
 
         <g transform="translate(445 125)">
@@ -1225,7 +1225,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.332s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-12: 0 contributions</title>
+          <title>2026-01-19: 0 contributions</title>
         </g>
 
         <g transform="translate(445 142)">
@@ -1233,7 +1233,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.341s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-13: 0 contributions</title>
+          <title>2026-01-20: 0 contributions</title>
         </g>
 
         <g transform="translate(445 159)">
@@ -1241,7 +1241,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.350s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-14: 0 contributions</title>
+          <title>2026-01-21: 0 contributions</title>
         </g>
 
         <g transform="translate(445 176)">
@@ -1249,7 +1249,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.359s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-15: 0 contributions</title>
+          <title>2026-01-22: 0 contributions</title>
         </g>
 
         <g transform="translate(445 193)">
@@ -1257,7 +1257,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.368s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-16: 0 contributions</title>
+          <title>2026-01-23: 0 contributions</title>
         </g>
 
         <g transform="translate(445 210)">
@@ -1265,7 +1265,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.377s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-17: 0 contributions</title>
+          <title>2026-01-24: 0 contributions</title>
         </g>
 
         <g transform="translate(462 108)">
@@ -1273,7 +1273,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.386s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-18: 0 contributions</title>
+          <title>2026-01-25: 0 contributions</title>
         </g>
 
         <g transform="translate(462 125)">
@@ -1281,7 +1281,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.395s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-19: 0 contributions</title>
+          <title>2026-01-26: 0 contributions</title>
         </g>
 
         <g transform="translate(462 142)">
@@ -1289,7 +1289,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.404s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-20: 0 contributions</title>
+          <title>2026-01-27: 0 contributions</title>
         </g>
 
         <g transform="translate(462 159)">
@@ -1297,7 +1297,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.413s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-21: 0 contributions</title>
+          <title>2026-01-28: 0 contributions</title>
         </g>
 
         <g transform="translate(462 176)">
@@ -1305,7 +1305,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.422s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-22: 0 contributions</title>
+          <title>2026-01-29: 0 contributions</title>
         </g>
 
         <g transform="translate(462 193)">
@@ -1313,7 +1313,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.431s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-23: 0 contributions</title>
+          <title>2026-01-30: 0 contributions</title>
         </g>
 
         <g transform="translate(462 210)">
@@ -1321,7 +1321,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.440s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-24: 0 contributions</title>
+          <title>2026-01-31: 0 contributions</title>
         </g>
 
         <g transform="translate(479 108)">
@@ -1329,7 +1329,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.449s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-25: 0 contributions</title>
+          <title>2026-02-01: 0 contributions</title>
         </g>
 
         <g transform="translate(479 125)">
@@ -1337,7 +1337,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.458s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-26: 0 contributions</title>
+          <title>2026-02-02: 0 contributions</title>
         </g>
 
         <g transform="translate(479 142)">
@@ -1345,7 +1345,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.467s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-27: 0 contributions</title>
+          <title>2026-02-03: 0 contributions</title>
         </g>
 
         <g transform="translate(479 159)">
@@ -1353,7 +1353,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.476s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-28: 0 contributions</title>
+          <title>2026-02-04: 0 contributions</title>
         </g>
 
         <g transform="translate(479 176)">
@@ -1361,7 +1361,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.485s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-29: 0 contributions</title>
+          <title>2026-02-05: 0 contributions</title>
         </g>
 
         <g transform="translate(479 193)">
@@ -1369,7 +1369,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.494s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-30: 0 contributions</title>
+          <title>2026-02-06: 0 contributions</title>
         </g>
 
         <g transform="translate(479 210)">
@@ -1377,7 +1377,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.503s" fill="freeze"/>
             
           </rect>
-          <title>2026-01-31: 0 contributions</title>
+          <title>2026-02-07: 0 contributions</title>
         </g>
 
         <g transform="translate(496 108)">
@@ -1385,7 +1385,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.512s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-01: 0 contributions</title>
+          <title>2026-02-08: 0 contributions</title>
         </g>
 
         <g transform="translate(496 125)">
@@ -1393,7 +1393,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.521s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-02: 0 contributions</title>
+          <title>2026-02-09: 0 contributions</title>
         </g>
 
         <g transform="translate(496 142)">
@@ -1401,15 +1401,15 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.530s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-03: 0 contributions</title>
+          <title>2026-02-10: 0 contributions</title>
         </g>
 
         <g transform="translate(496 159)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.539s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-1.539s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-02-04: 0 contributions</title>
+          <title>2026-02-11: 2 contributions</title>
         </g>
 
         <g transform="translate(496 176)">
@@ -1417,7 +1417,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.548s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-05: 0 contributions</title>
+          <title>2026-02-12: 0 contributions</title>
         </g>
 
         <g transform="translate(496 193)">
@@ -1425,7 +1425,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.557s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-06: 0 contributions</title>
+          <title>2026-02-13: 0 contributions</title>
         </g>
 
         <g transform="translate(496 210)">
@@ -1433,7 +1433,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.566s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-07: 0 contributions</title>
+          <title>2026-02-14: 0 contributions</title>
         </g>
 
         <g transform="translate(513 108)">
@@ -1441,7 +1441,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.575s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-08: 0 contributions</title>
+          <title>2026-02-15: 0 contributions</title>
         </g>
 
         <g transform="translate(513 125)">
@@ -1449,7 +1449,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.584s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-09: 0 contributions</title>
+          <title>2026-02-16: 0 contributions</title>
         </g>
 
         <g transform="translate(513 142)">
@@ -1457,15 +1457,15 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.593s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-10: 0 contributions</title>
+          <title>2026-02-17: 0 contributions</title>
         </g>
 
         <g transform="translate(513 159)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.602s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-1.602s" repeatCount="indefinite"/>
+            
           </rect>
-          <title>2026-02-11: 2 contributions</title>
+          <title>2026-02-18: 0 contributions</title>
         </g>
 
         <g transform="translate(513 176)">
@@ -1473,7 +1473,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.611s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-12: 0 contributions</title>
+          <title>2026-02-19: 0 contributions</title>
         </g>
 
         <g transform="translate(513 193)">
@@ -1481,7 +1481,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.620s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-13: 0 contributions</title>
+          <title>2026-02-20: 0 contributions</title>
         </g>
 
         <g transform="translate(513 210)">
@@ -1489,7 +1489,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.629s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-14: 0 contributions</title>
+          <title>2026-02-21: 0 contributions</title>
         </g>
 
         <g transform="translate(530 108)">
@@ -1497,7 +1497,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.638s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-15: 0 contributions</title>
+          <title>2026-02-22: 0 contributions</title>
         </g>
 
         <g transform="translate(530 125)">
@@ -1505,7 +1505,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.647s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-16: 0 contributions</title>
+          <title>2026-02-23: 0 contributions</title>
         </g>
 
         <g transform="translate(530 142)">
@@ -1513,7 +1513,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.656s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-17: 0 contributions</title>
+          <title>2026-02-24: 0 contributions</title>
         </g>
 
         <g transform="translate(530 159)">
@@ -1521,7 +1521,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.665s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-18: 0 contributions</title>
+          <title>2026-02-25: 0 contributions</title>
         </g>
 
         <g transform="translate(530 176)">
@@ -1529,7 +1529,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.674s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-19: 0 contributions</title>
+          <title>2026-02-26: 0 contributions</title>
         </g>
 
         <g transform="translate(530 193)">
@@ -1537,7 +1537,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.683s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-20: 0 contributions</title>
+          <title>2026-02-27: 0 contributions</title>
         </g>
 
         <g transform="translate(530 210)">
@@ -1545,7 +1545,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.692s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-21: 0 contributions</title>
+          <title>2026-02-28: 0 contributions</title>
         </g>
 
         <g transform="translate(547 108)">
@@ -1553,7 +1553,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.701s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-22: 0 contributions</title>
+          <title>2026-03-01: 0 contributions</title>
         </g>
 
         <g transform="translate(547 125)">
@@ -1561,15 +1561,15 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.710s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-23: 0 contributions</title>
+          <title>2026-03-02: 0 contributions</title>
         </g>
 
         <g transform="translate(547 142)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#67E8F9" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.719s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="4.40s" begin="-1.719s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-02-24: 0 contributions</title>
+          <title>2026-03-03: 12 contributions</title>
         </g>
 
         <g transform="translate(547 159)">
@@ -1577,7 +1577,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.728s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-25: 0 contributions</title>
+          <title>2026-03-04: 0 contributions</title>
         </g>
 
         <g transform="translate(547 176)">
@@ -1585,7 +1585,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.737s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-26: 0 contributions</title>
+          <title>2026-03-05: 0 contributions</title>
         </g>
 
         <g transform="translate(547 193)">
@@ -1593,39 +1593,39 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.746s" fill="freeze"/>
             
           </rect>
-          <title>2026-02-27: 0 contributions</title>
+          <title>2026-03-06: 0 contributions</title>
         </g>
 
         <g transform="translate(547 210)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#67E8F9" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.755s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="4.40s" begin="-1.755s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-02-28: 0 contributions</title>
+          <title>2026-03-07: 13 contributions</title>
         </g>
 
         <g transform="translate(564 108)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.764s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-1.764s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-03-01: 0 contributions</title>
+          <title>2026-03-08: 6 contributions</title>
         </g>
 
         <g transform="translate(564 125)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.773s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-1.773s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-03-02: 0 contributions</title>
+          <title>2026-03-09: 1 contribution</title>
         </g>
 
         <g transform="translate(564 142)">
-          <rect width="13" height="13" rx="3" fill="#67E8F9" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.782s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="4.40s" begin="-1.782s" repeatCount="indefinite"/>
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-1.782s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-03-03: 12 contributions</title>
+          <title>2026-03-10: 1 contribution</title>
         </g>
 
         <g transform="translate(564 159)">
@@ -1633,7 +1633,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.791s" fill="freeze"/>
             
           </rect>
-          <title>2026-03-04: 0 contributions</title>
+          <title>2026-03-11: 0 contributions</title>
         </g>
 
         <g transform="translate(564 176)">
@@ -1641,23 +1641,23 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.800s" fill="freeze"/>
             
           </rect>
-          <title>2026-03-05: 0 contributions</title>
+          <title>2026-03-12: 0 contributions</title>
         </g>
 
         <g transform="translate(564 193)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.809s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-1.809s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-03-06: 0 contributions</title>
+          <title>2026-03-13: 2 contributions</title>
         </g>
 
         <g transform="translate(564 210)">
-          <rect width="13" height="13" rx="3" fill="#67E8F9" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.818s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="4.40s" begin="-1.818s" repeatCount="indefinite"/>
+            
           </rect>
-          <title>2026-03-07: 13 contributions</title>
+          <title>2026-03-14: 0 contributions</title>
         </g>
 
         <g transform="translate(581 108)">
@@ -1665,23 +1665,23 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.827s" fill="freeze"/>
             <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-1.827s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-03-08: 6 contributions</title>
+          <title>2026-03-15: 3 contributions</title>
         </g>
 
         <g transform="translate(581 125)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.836s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-1.836s" repeatCount="indefinite"/>
+            
           </rect>
-          <title>2026-03-09: 1 contribution</title>
+          <title>2026-03-16: 0 contributions</title>
         </g>
 
         <g transform="translate(581 142)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.845s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-1.845s" repeatCount="indefinite"/>
+            
           </rect>
-          <title>2026-03-10: 1 contribution</title>
+          <title>2026-03-17: 0 contributions</title>
         </g>
 
         <g transform="translate(581 159)">
@@ -1689,7 +1689,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.854s" fill="freeze"/>
             
           </rect>
-          <title>2026-03-11: 0 contributions</title>
+          <title>2026-03-18: 0 contributions</title>
         </g>
 
         <g transform="translate(581 176)">
@@ -1697,15 +1697,15 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.863s" fill="freeze"/>
             
           </rect>
-          <title>2026-03-12: 0 contributions</title>
+          <title>2026-03-19: 0 contributions</title>
         </g>
 
         <g transform="translate(581 193)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.872s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-1.872s" repeatCount="indefinite"/>
+            
           </rect>
-          <title>2026-03-13: 2 contributions</title>
+          <title>2026-03-20: 0 contributions</title>
         </g>
 
         <g transform="translate(581 210)">
@@ -1713,7 +1713,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.881s" fill="freeze"/>
             
           </rect>
-          <title>2026-03-14: 0 contributions</title>
+          <title>2026-03-21: 0 contributions</title>
         </g>
 
         <g transform="translate(598 108)">
@@ -1721,7 +1721,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.890s" fill="freeze"/>
             <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-1.890s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-03-15: 3 contributions</title>
+          <title>2026-03-22: 1 contribution</title>
         </g>
 
         <g transform="translate(598 125)">
@@ -1729,7 +1729,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.899s" fill="freeze"/>
             
           </rect>
-          <title>2026-03-16: 0 contributions</title>
+          <title>2026-03-23: 0 contributions</title>
         </g>
 
         <g transform="translate(598 142)">
@@ -1737,7 +1737,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.908s" fill="freeze"/>
             
           </rect>
-          <title>2026-03-17: 0 contributions</title>
+          <title>2026-03-24: 0 contributions</title>
         </g>
 
         <g transform="translate(598 159)">
@@ -1745,7 +1745,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.917s" fill="freeze"/>
             
           </rect>
-          <title>2026-03-18: 0 contributions</title>
+          <title>2026-03-25: 0 contributions</title>
         </g>
 
         <g transform="translate(598 176)">
@@ -1753,7 +1753,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.926s" fill="freeze"/>
             
           </rect>
-          <title>2026-03-19: 0 contributions</title>
+          <title>2026-03-26: 0 contributions</title>
         </g>
 
         <g transform="translate(598 193)">
@@ -1761,7 +1761,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.935s" fill="freeze"/>
             
           </rect>
-          <title>2026-03-20: 0 contributions</title>
+          <title>2026-03-27: 0 contributions</title>
         </g>
 
         <g transform="translate(598 210)">
@@ -1769,15 +1769,15 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.944s" fill="freeze"/>
             
           </rect>
-          <title>2026-03-21: 0 contributions</title>
+          <title>2026-03-28: 0 contributions</title>
         </g>
 
         <g transform="translate(615 108)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.953s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-1.953s" repeatCount="indefinite"/>
+            
           </rect>
-          <title>2026-03-22: 1 contribution</title>
+          <title>2026-03-29: 0 contributions</title>
         </g>
 
         <g transform="translate(615 125)">
@@ -1785,7 +1785,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.962s" fill="freeze"/>
             
           </rect>
-          <title>2026-03-23: 0 contributions</title>
+          <title>2026-03-30: 0 contributions</title>
         </g>
 
         <g transform="translate(615 142)">
@@ -1793,7 +1793,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.971s" fill="freeze"/>
             
           </rect>
-          <title>2026-03-24: 0 contributions</title>
+          <title>2026-03-31: 0 contributions</title>
         </g>
 
         <g transform="translate(615 159)">
@@ -1801,7 +1801,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.980s" fill="freeze"/>
             
           </rect>
-          <title>2026-03-25: 0 contributions</title>
+          <title>2026-04-01: 0 contributions</title>
         </g>
 
         <g transform="translate(615 176)">
@@ -1809,7 +1809,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.989s" fill="freeze"/>
             
           </rect>
-          <title>2026-03-26: 0 contributions</title>
+          <title>2026-04-02: 0 contributions</title>
         </g>
 
         <g transform="translate(615 193)">
@@ -1817,7 +1817,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="1.998s" fill="freeze"/>
             
           </rect>
-          <title>2026-03-27: 0 contributions</title>
+          <title>2026-04-03: 0 contributions</title>
         </g>
 
         <g transform="translate(615 210)">
@@ -1825,31 +1825,31 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.007s" fill="freeze"/>
             
           </rect>
-          <title>2026-03-28: 0 contributions</title>
+          <title>2026-04-04: 0 contributions</title>
         </g>
 
         <g transform="translate(632 108)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.016s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-2.016s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-03-29: 0 contributions</title>
+          <title>2026-04-05: 1 contribution</title>
         </g>
 
         <g transform="translate(632 125)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.025s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-2.025s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-03-30: 0 contributions</title>
+          <title>2026-04-06: 3 contributions</title>
         </g>
 
         <g transform="translate(632 142)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.034s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-2.034s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-03-31: 0 contributions</title>
+          <title>2026-04-07: 1 contribution</title>
         </g>
 
         <g transform="translate(632 159)">
@@ -1857,7 +1857,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.043s" fill="freeze"/>
             
           </rect>
-          <title>2026-04-01: 0 contributions</title>
+          <title>2026-04-08: 0 contributions</title>
         </g>
 
         <g transform="translate(632 176)">
@@ -1865,7 +1865,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.052s" fill="freeze"/>
             
           </rect>
-          <title>2026-04-02: 0 contributions</title>
+          <title>2026-04-09: 0 contributions</title>
         </g>
 
         <g transform="translate(632 193)">
@@ -1873,7 +1873,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.061s" fill="freeze"/>
             
           </rect>
-          <title>2026-04-03: 0 contributions</title>
+          <title>2026-04-10: 0 contributions</title>
         </g>
 
         <g transform="translate(632 210)">
@@ -1881,31 +1881,31 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.070s" fill="freeze"/>
             
           </rect>
-          <title>2026-04-04: 0 contributions</title>
+          <title>2026-04-11: 0 contributions</title>
         </g>
 
         <g transform="translate(649 108)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.079s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-2.079s" repeatCount="indefinite"/>
+            
           </rect>
-          <title>2026-04-05: 1 contribution</title>
+          <title>2026-04-12: 0 contributions</title>
         </g>
 
         <g transform="translate(649 125)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.088s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-2.088s" repeatCount="indefinite"/>
+            
           </rect>
-          <title>2026-04-06: 3 contributions</title>
+          <title>2026-04-13: 0 contributions</title>
         </g>
 
         <g transform="translate(649 142)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.097s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-2.097s" repeatCount="indefinite"/>
+            
           </rect>
-          <title>2026-04-07: 1 contribution</title>
+          <title>2026-04-14: 0 contributions</title>
         </g>
 
         <g transform="translate(649 159)">
@@ -1913,7 +1913,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.106s" fill="freeze"/>
             
           </rect>
-          <title>2026-04-08: 0 contributions</title>
+          <title>2026-04-15: 0 contributions</title>
         </g>
 
         <g transform="translate(649 176)">
@@ -1921,7 +1921,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.115s" fill="freeze"/>
             
           </rect>
-          <title>2026-04-09: 0 contributions</title>
+          <title>2026-04-16: 0 contributions</title>
         </g>
 
         <g transform="translate(649 193)">
@@ -1929,15 +1929,15 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.124s" fill="freeze"/>
             
           </rect>
-          <title>2026-04-10: 0 contributions</title>
+          <title>2026-04-17: 0 contributions</title>
         </g>
 
         <g transform="translate(649 210)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.133s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-2.133s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-04-11: 0 contributions</title>
+          <title>2026-04-18: 1 contribution</title>
         </g>
 
         <g transform="translate(666 108)">
@@ -1945,7 +1945,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.142s" fill="freeze"/>
             
           </rect>
-          <title>2026-04-12: 0 contributions</title>
+          <title>2026-04-19: 0 contributions</title>
         </g>
 
         <g transform="translate(666 125)">
@@ -1953,7 +1953,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.151s" fill="freeze"/>
             
           </rect>
-          <title>2026-04-13: 0 contributions</title>
+          <title>2026-04-20: 0 contributions</title>
         </g>
 
         <g transform="translate(666 142)">
@@ -1961,7 +1961,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.160s" fill="freeze"/>
             
           </rect>
-          <title>2026-04-14: 0 contributions</title>
+          <title>2026-04-21: 0 contributions</title>
         </g>
 
         <g transform="translate(666 159)">
@@ -1969,7 +1969,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.169s" fill="freeze"/>
             
           </rect>
-          <title>2026-04-15: 0 contributions</title>
+          <title>2026-04-22: 0 contributions</title>
         </g>
 
         <g transform="translate(666 176)">
@@ -1977,7 +1977,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.178s" fill="freeze"/>
             
           </rect>
-          <title>2026-04-16: 0 contributions</title>
+          <title>2026-04-23: 0 contributions</title>
         </g>
 
         <g transform="translate(666 193)">
@@ -1985,23 +1985,23 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.187s" fill="freeze"/>
             
           </rect>
-          <title>2026-04-17: 0 contributions</title>
+          <title>2026-04-24: 0 contributions</title>
         </g>
 
         <g transform="translate(666 210)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.196s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-2.196s" repeatCount="indefinite"/>
+            
           </rect>
-          <title>2026-04-18: 1 contribution</title>
+          <title>2026-04-25: 0 contributions</title>
         </g>
 
         <g transform="translate(683 108)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.205s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-2.205s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-04-19: 0 contributions</title>
+          <title>2026-04-26: 1 contribution</title>
         </g>
 
         <g transform="translate(683 125)">
@@ -2009,7 +2009,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.214s" fill="freeze"/>
             
           </rect>
-          <title>2026-04-20: 0 contributions</title>
+          <title>2026-04-27: 0 contributions</title>
         </g>
 
         <g transform="translate(683 142)">
@@ -2017,23 +2017,23 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.223s" fill="freeze"/>
             
           </rect>
-          <title>2026-04-21: 0 contributions</title>
+          <title>2026-04-28: 0 contributions</title>
         </g>
 
         <g transform="translate(683 159)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.232s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-2.232s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-04-22: 0 contributions</title>
+          <title>2026-04-29: 1 contribution</title>
         </g>
 
         <g transform="translate(683 176)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#67E8F9" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.241s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="4.40s" begin="-2.241s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-04-23: 0 contributions</title>
+          <title>2026-04-30: 9 contributions</title>
         </g>
 
         <g transform="translate(683 193)">
@@ -2041,23 +2041,23 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.250s" fill="freeze"/>
             
           </rect>
-          <title>2026-04-24: 0 contributions</title>
+          <title>2026-05-01: 0 contributions</title>
         </g>
 
         <g transform="translate(683 210)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.259s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-2.259s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-04-25: 0 contributions</title>
+          <title>2026-05-02: 5 contributions</title>
         </g>
 
         <g transform="translate(700 108)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#67E8F9" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.268s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-2.268s" repeatCount="indefinite"/>
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="4.40s" begin="-2.268s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-04-26: 1 contribution</title>
+          <title>2026-05-03: 8 contributions</title>
         </g>
 
         <g transform="translate(700 125)">
@@ -2065,7 +2065,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.277s" fill="freeze"/>
             
           </rect>
-          <title>2026-04-27: 0 contributions</title>
+          <title>2026-05-04: 0 contributions</title>
         </g>
 
         <g transform="translate(700 142)">
@@ -2073,23 +2073,23 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.286s" fill="freeze"/>
             
           </rect>
-          <title>2026-04-28: 0 contributions</title>
+          <title>2026-05-05: 0 contributions</title>
         </g>
 
         <g transform="translate(700 159)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.295s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-2.295s" repeatCount="indefinite"/>
+            
           </rect>
-          <title>2026-04-29: 1 contribution</title>
+          <title>2026-05-06: 0 contributions</title>
         </g>
 
         <g transform="translate(700 176)">
-          <rect width="13" height="13" rx="3" fill="#67E8F9" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.304s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="4.40s" begin="-2.304s" repeatCount="indefinite"/>
+            
           </rect>
-          <title>2026-04-30: 9 contributions</title>
+          <title>2026-05-07: 0 contributions</title>
         </g>
 
         <g transform="translate(700 193)">
@@ -2097,23 +2097,23 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.313s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-01: 0 contributions</title>
+          <title>2026-05-08: 0 contributions</title>
         </g>
 
         <g transform="translate(700 210)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.322s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-2.322s" repeatCount="indefinite"/>
+            
           </rect>
-          <title>2026-05-02: 5 contributions</title>
+          <title>2026-05-09: 0 contributions</title>
         </g>
 
         <g transform="translate(717 108)">
-          <rect width="13" height="13" rx="3" fill="#67E8F9" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.331s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="4.40s" begin="-2.331s" repeatCount="indefinite"/>
+            
           </rect>
-          <title>2026-05-03: 8 contributions</title>
+          <title>2026-05-10: 0 contributions</title>
         </g>
 
         <g transform="translate(717 125)">
@@ -2121,7 +2121,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.340s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-04: 0 contributions</title>
+          <title>2026-05-11: 0 contributions</title>
         </g>
 
         <g transform="translate(717 142)">
@@ -2129,7 +2129,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.349s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-05: 0 contributions</title>
+          <title>2026-05-12: 0 contributions</title>
         </g>
 
         <g transform="translate(717 159)">
@@ -2137,7 +2137,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.358s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-06: 0 contributions</title>
+          <title>2026-05-13: 0 contributions</title>
         </g>
 
         <g transform="translate(717 176)">
@@ -2145,7 +2145,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.367s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-07: 0 contributions</title>
+          <title>2026-05-14: 0 contributions</title>
         </g>
 
         <g transform="translate(717 193)">
@@ -2153,7 +2153,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.376s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-08: 0 contributions</title>
+          <title>2026-05-15: 0 contributions</title>
         </g>
 
         <g transform="translate(717 210)">
@@ -2161,7 +2161,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.385s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-09: 0 contributions</title>
+          <title>2026-05-16: 0 contributions</title>
         </g>
 
         <g transform="translate(734 108)">
@@ -2169,7 +2169,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.394s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-10: 0 contributions</title>
+          <title>2026-05-17: 0 contributions</title>
         </g>
 
         <g transform="translate(734 125)">
@@ -2177,7 +2177,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.403s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-11: 0 contributions</title>
+          <title>2026-05-18: 0 contributions</title>
         </g>
 
         <g transform="translate(734 142)">
@@ -2185,7 +2185,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.412s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-12: 0 contributions</title>
+          <title>2026-05-19: 0 contributions</title>
         </g>
 
         <g transform="translate(734 159)">
@@ -2193,7 +2193,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.421s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-13: 0 contributions</title>
+          <title>2026-05-20: 0 contributions</title>
         </g>
 
         <g transform="translate(734 176)">
@@ -2201,7 +2201,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.430s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-14: 0 contributions</title>
+          <title>2026-05-21: 0 contributions</title>
         </g>
 
         <g transform="translate(734 193)">
@@ -2209,7 +2209,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.439s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-15: 0 contributions</title>
+          <title>2026-05-22: 0 contributions</title>
         </g>
 
         <g transform="translate(734 210)">
@@ -2217,7 +2217,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.448s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-16: 0 contributions</title>
+          <title>2026-05-23: 0 contributions</title>
         </g>
 
         <g transform="translate(751 108)">
@@ -2225,7 +2225,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.457s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-17: 0 contributions</title>
+          <title>2026-05-24: 0 contributions</title>
         </g>
 
         <g transform="translate(751 125)">
@@ -2233,7 +2233,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.466s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-18: 0 contributions</title>
+          <title>2026-05-25: 0 contributions</title>
         </g>
 
         <g transform="translate(751 142)">
@@ -2241,7 +2241,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.475s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-19: 0 contributions</title>
+          <title>2026-05-26: 0 contributions</title>
         </g>
 
         <g transform="translate(751 159)">
@@ -2249,7 +2249,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.484s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-20: 0 contributions</title>
+          <title>2026-05-27: 0 contributions</title>
         </g>
 
         <g transform="translate(751 176)">
@@ -2257,7 +2257,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.493s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-21: 0 contributions</title>
+          <title>2026-05-28: 0 contributions</title>
         </g>
 
         <g transform="translate(751 193)">
@@ -2265,7 +2265,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.502s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-22: 0 contributions</title>
+          <title>2026-05-29: 0 contributions</title>
         </g>
 
         <g transform="translate(751 210)">
@@ -2273,7 +2273,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.511s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-23: 0 contributions</title>
+          <title>2026-05-30: 0 contributions</title>
         </g>
 
         <g transform="translate(768 108)">
@@ -2281,7 +2281,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.520s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-24: 0 contributions</title>
+          <title>2026-05-31: 0 contributions</title>
         </g>
 
         <g transform="translate(768 125)">
@@ -2289,7 +2289,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.529s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-25: 0 contributions</title>
+          <title>2026-06-01: 0 contributions</title>
         </g>
 
         <g transform="translate(768 142)">
@@ -2297,15 +2297,15 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.538s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-26: 0 contributions</title>
+          <title>2026-06-02: 0 contributions</title>
         </g>
 
         <g transform="translate(768 159)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.547s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-2.547s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-05-27: 0 contributions</title>
+          <title>2026-06-03: 5 contributions</title>
         </g>
 
         <g transform="translate(768 176)">
@@ -2313,7 +2313,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.556s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-28: 0 contributions</title>
+          <title>2026-06-04: 0 contributions</title>
         </g>
 
         <g transform="translate(768 193)">
@@ -2321,7 +2321,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.565s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-29: 0 contributions</title>
+          <title>2026-06-05: 0 contributions</title>
         </g>
 
         <g transform="translate(768 210)">
@@ -2329,7 +2329,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.574s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-30: 0 contributions</title>
+          <title>2026-06-06: 0 contributions</title>
         </g>
 
         <g transform="translate(785 108)">
@@ -2337,7 +2337,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.583s" fill="freeze"/>
             
           </rect>
-          <title>2026-05-31: 0 contributions</title>
+          <title>2026-06-07: 0 contributions</title>
         </g>
 
         <g transform="translate(785 125)">
@@ -2345,7 +2345,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.592s" fill="freeze"/>
             
           </rect>
-          <title>2026-06-01: 0 contributions</title>
+          <title>2026-06-08: 0 contributions</title>
         </g>
 
         <g transform="translate(785 142)">
@@ -2353,23 +2353,23 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.601s" fill="freeze"/>
             
           </rect>
-          <title>2026-06-02: 0 contributions</title>
+          <title>2026-06-09: 0 contributions</title>
         </g>
 
         <g transform="translate(785 159)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.610s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-2.610s" repeatCount="indefinite"/>
+            
           </rect>
-          <title>2026-06-03: 5 contributions</title>
+          <title>2026-06-10: 0 contributions</title>
         </g>
 
         <g transform="translate(785 176)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.619s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-2.619s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-06-04: 0 contributions</title>
+          <title>2026-06-11: 1 contribution</title>
         </g>
 
         <g transform="translate(785 193)">
@@ -2377,7 +2377,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.628s" fill="freeze"/>
             
           </rect>
-          <title>2026-06-05: 0 contributions</title>
+          <title>2026-06-12: 0 contributions</title>
         </g>
 
         <g transform="translate(785 210)">
@@ -2385,7 +2385,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.637s" fill="freeze"/>
             
           </rect>
-          <title>2026-06-06: 0 contributions</title>
+          <title>2026-06-13: 0 contributions</title>
         </g>
 
         <g transform="translate(802 108)">
@@ -2393,7 +2393,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.646s" fill="freeze"/>
             
           </rect>
-          <title>2026-06-07: 0 contributions</title>
+          <title>2026-06-14: 0 contributions</title>
         </g>
 
         <g transform="translate(802 125)">
@@ -2401,7 +2401,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.655s" fill="freeze"/>
             
           </rect>
-          <title>2026-06-08: 0 contributions</title>
+          <title>2026-06-15: 0 contributions</title>
         </g>
 
         <g transform="translate(802 142)">
@@ -2409,7 +2409,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.664s" fill="freeze"/>
             
           </rect>
-          <title>2026-06-09: 0 contributions</title>
+          <title>2026-06-16: 0 contributions</title>
         </g>
 
         <g transform="translate(802 159)">
@@ -2417,15 +2417,15 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.673s" fill="freeze"/>
             
           </rect>
-          <title>2026-06-10: 0 contributions</title>
+          <title>2026-06-17: 0 contributions</title>
         </g>
 
         <g transform="translate(802 176)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.682s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-2.682s" repeatCount="indefinite"/>
+            
           </rect>
-          <title>2026-06-11: 1 contribution</title>
+          <title>2026-06-18: 0 contributions</title>
         </g>
 
         <g transform="translate(802 193)">
@@ -2433,23 +2433,23 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.691s" fill="freeze"/>
             
           </rect>
-          <title>2026-06-12: 0 contributions</title>
+          <title>2026-06-19: 0 contributions</title>
         </g>
 
         <g transform="translate(802 210)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#0891B2" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.700s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="5.30s" begin="-2.700s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-06-13: 0 contributions</title>
+          <title>2026-06-20: 45 contributions</title>
         </g>
 
         <g transform="translate(819 108)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.709s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-2.709s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-06-14: 0 contributions</title>
+          <title>2026-06-21: 1 contribution</title>
         </g>
 
         <g transform="translate(819 125)">
@@ -2457,7 +2457,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.718s" fill="freeze"/>
             
           </rect>
-          <title>2026-06-15: 0 contributions</title>
+          <title>2026-06-22: 0 contributions</title>
         </g>
 
         <g transform="translate(819 142)">
@@ -2465,15 +2465,15 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.727s" fill="freeze"/>
             
           </rect>
-          <title>2026-06-16: 0 contributions</title>
+          <title>2026-06-23: 0 contributions</title>
         </g>
 
         <g transform="translate(819 159)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.736s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-2.736s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-06-17: 0 contributions</title>
+          <title>2026-06-24: 1 contribution</title>
         </g>
 
         <g transform="translate(819 176)">
@@ -2481,7 +2481,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.745s" fill="freeze"/>
             
           </rect>
-          <title>2026-06-18: 0 contributions</title>
+          <title>2026-06-25: 0 contributions</title>
         </g>
 
         <g transform="translate(819 193)">
@@ -2489,23 +2489,23 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.754s" fill="freeze"/>
             
           </rect>
-          <title>2026-06-19: 0 contributions</title>
+          <title>2026-06-26: 0 contributions</title>
         </g>
 
         <g transform="translate(819 210)">
-          <rect width="13" height="13" rx="3" fill="#0891B2" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.763s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="5.30s" begin="-2.763s" repeatCount="indefinite"/>
+            
           </rect>
-          <title>2026-06-20: 45 contributions</title>
+          <title>2026-06-27: 0 contributions</title>
         </g>
 
         <g transform="translate(836 108)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.772s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-2.772s" repeatCount="indefinite"/>
+            
           </rect>
-          <title>2026-06-21: 1 contribution</title>
+          <title>2026-06-28: 0 contributions</title>
         </g>
 
         <g transform="translate(836 125)">
@@ -2513,7 +2513,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.781s" fill="freeze"/>
             
           </rect>
-          <title>2026-06-22: 0 contributions</title>
+          <title>2026-06-29: 0 contributions</title>
         </g>
 
         <g transform="translate(836 142)">
@@ -2521,15 +2521,15 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.790s" fill="freeze"/>
             
           </rect>
-          <title>2026-06-23: 0 contributions</title>
+          <title>2026-06-30: 0 contributions</title>
         </g>
 
         <g transform="translate(836 159)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.799s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-2.799s" repeatCount="indefinite"/>
+            
           </rect>
-          <title>2026-06-24: 1 contribution</title>
+          <title>2026-07-01: 0 contributions</title>
         </g>
 
         <g transform="translate(836 176)">
@@ -2537,7 +2537,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.808s" fill="freeze"/>
             
           </rect>
-          <title>2026-06-25: 0 contributions</title>
+          <title>2026-07-02: 0 contributions</title>
         </g>
 
         <g transform="translate(836 193)">
@@ -2545,7 +2545,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.817s" fill="freeze"/>
             
           </rect>
-          <title>2026-06-26: 0 contributions</title>
+          <title>2026-07-03: 0 contributions</title>
         </g>
 
         <g transform="translate(836 210)">
@@ -2553,7 +2553,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.826s" fill="freeze"/>
             
           </rect>
-          <title>2026-06-27: 0 contributions</title>
+          <title>2026-07-04: 0 contributions</title>
         </g>
 
         <g transform="translate(853 108)">
@@ -2561,7 +2561,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.835s" fill="freeze"/>
             
           </rect>
-          <title>2026-06-28: 0 contributions</title>
+          <title>2026-07-05: 0 contributions</title>
         </g>
 
         <g transform="translate(853 125)">
@@ -2569,7 +2569,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.844s" fill="freeze"/>
             
           </rect>
-          <title>2026-06-29: 0 contributions</title>
+          <title>2026-07-06: 0 contributions</title>
         </g>
 
         <g transform="translate(853 142)">
@@ -2577,7 +2577,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.853s" fill="freeze"/>
             
           </rect>
-          <title>2026-06-30: 0 contributions</title>
+          <title>2026-07-07: 0 contributions</title>
         </g>
 
         <g transform="translate(853 159)">
@@ -2585,7 +2585,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.862s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-01: 0 contributions</title>
+          <title>2026-07-08: 0 contributions</title>
         </g>
 
         <g transform="translate(853 176)">
@@ -2593,7 +2593,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.871s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-02: 0 contributions</title>
+          <title>2026-07-09: 0 contributions</title>
         </g>
 
         <g transform="translate(853 193)">
@@ -2601,7 +2601,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.880s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-03: 0 contributions</title>
+          <title>2026-07-10: 0 contributions</title>
         </g>
 
         <g transform="translate(853 210)">
@@ -2609,7 +2609,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.889s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-04: 0 contributions</title>
+          <title>2026-07-11: 0 contributions</title>
         </g>
 
         <g transform="translate(870 108)">
@@ -2617,7 +2617,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.898s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-05: 0 contributions</title>
+          <title>2026-07-12: 0 contributions</title>
         </g>
 
         <g transform="translate(870 125)">
@@ -2625,7 +2625,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.907s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-06: 0 contributions</title>
+          <title>2026-07-13: 0 contributions</title>
         </g>
 
         <g transform="translate(870 142)">
@@ -2633,7 +2633,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.916s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-07: 0 contributions</title>
+          <title>2026-07-14: 0 contributions</title>
         </g>
 
         <g transform="translate(870 159)">
@@ -2641,7 +2641,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.925s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-08: 0 contributions</title>
+          <title>2026-07-15: 0 contributions</title>
         </g>
 
         <g transform="translate(870 176)">
@@ -2649,7 +2649,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.934s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-09: 0 contributions</title>
+          <title>2026-07-16: 0 contributions</title>
         </g>
 
         <g transform="translate(870 193)">
@@ -2657,7 +2657,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.943s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-10: 0 contributions</title>
+          <title>2026-07-17: 0 contributions</title>
         </g>
 
         <g transform="translate(870 210)">
@@ -2665,7 +2665,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.952s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-11: 0 contributions</title>
+          <title>2026-07-18: 0 contributions</title>
         </g>
 
         <g transform="translate(887 108)">
@@ -2673,15 +2673,15 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.961s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-12: 0 contributions</title>
+          <title>2026-07-19: 0 contributions</title>
         </g>
 
         <g transform="translate(887 125)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.970s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-2.970s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-07-13: 0 contributions</title>
+          <title>2026-07-20: 2 contributions</title>
         </g>
 
         <g transform="translate(887 142)">
@@ -2689,7 +2689,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.979s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-14: 0 contributions</title>
+          <title>2026-07-21: 0 contributions</title>
         </g>
 
         <g transform="translate(887 159)">
@@ -2697,7 +2697,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.988s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-15: 0 contributions</title>
+          <title>2026-07-22: 0 contributions</title>
         </g>
 
         <g transform="translate(887 176)">
@@ -2705,7 +2705,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="2.997s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-16: 0 contributions</title>
+          <title>2026-07-23: 0 contributions</title>
         </g>
 
         <g transform="translate(887 193)">
@@ -2713,7 +2713,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.006s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-17: 0 contributions</title>
+          <title>2026-07-24: 0 contributions</title>
         </g>
 
         <g transform="translate(887 210)">
@@ -2721,7 +2721,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.015s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-18: 0 contributions</title>
+          <title>2026-07-25: 0 contributions</title>
         </g>
 
         <g transform="translate(904 108)">
@@ -2729,15 +2729,15 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.024s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-19: 0 contributions</title>
+          <title>2026-07-26: 0 contributions</title>
         </g>
 
         <g transform="translate(904 125)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.033s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-3.033s" repeatCount="indefinite"/>
+            
           </rect>
-          <title>2026-07-20: 2 contributions</title>
+          <title>2026-07-27: 0 contributions</title>
         </g>
 
         <g transform="translate(904 142)">
@@ -2745,7 +2745,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.042s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-21: 0 contributions</title>
+          <title>2026-07-28: 0 contributions</title>
         </g>
 
         <g transform="translate(904 159)">
@@ -2753,7 +2753,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.051s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-22: 0 contributions</title>
+          <title>2026-07-29: 0 contributions</title>
         </g>
 
         <g transform="translate(904 176)">
@@ -2761,7 +2761,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.060s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-23: 0 contributions</title>
+          <title>2026-07-30: 0 contributions</title>
         </g>
 
         <g transform="translate(904 193)">
@@ -2769,7 +2769,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.069s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-24: 0 contributions</title>
+          <title>2026-07-31: 0 contributions</title>
         </g>
 
         <g transform="translate(904 210)">
@@ -2777,7 +2777,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.078s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-25: 0 contributions</title>
+          <title>2026-08-01: 0 contributions</title>
         </g>
 
         <g transform="translate(921 108)">
@@ -2785,7 +2785,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.087s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-26: 0 contributions</title>
+          <title>2026-08-02: 0 contributions</title>
         </g>
 
         <g transform="translate(921 125)">
@@ -2793,7 +2793,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.096s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-27: 0 contributions</title>
+          <title>2026-08-03: 0 contributions</title>
         </g>
 
         <g transform="translate(921 142)">
@@ -2801,7 +2801,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.105s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-28: 0 contributions</title>
+          <title>2026-08-04: 0 contributions</title>
         </g>
 
         <g transform="translate(921 159)">
@@ -2809,47 +2809,47 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.114s" fill="freeze"/>
             
           </rect>
-          <title>2026-07-29: 0 contributions</title>
+          <title>2026-08-05: 0 contributions</title>
         </g>
 
         <g transform="translate(921 176)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.123s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-3.123s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-07-30: 0 contributions</title>
+          <title>2026-08-06: 6 contributions</title>
         </g>
 
         <g transform="translate(921 193)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#67E8F9" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.132s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="4.40s" begin="-3.132s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-07-31: 0 contributions</title>
+          <title>2026-08-07: 14 contributions</title>
         </g>
 
         <g transform="translate(921 210)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.141s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-3.141s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-08-01: 0 contributions</title>
+          <title>2026-08-08: 6 contributions</title>
         </g>
 
         <g transform="translate(938 108)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.150s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-3.150s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-08-02: 0 contributions</title>
+          <title>2026-08-09: 1 contribution</title>
         </g>
 
         <g transform="translate(938 125)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.159s" fill="freeze"/>
-            
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-3.159s" repeatCount="indefinite"/>
           </rect>
-          <title>2026-08-03: 0 contributions</title>
+          <title>2026-08-10: 1 contribution</title>
         </g>
 
         <g transform="translate(938 142)">
@@ -2857,7 +2857,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.168s" fill="freeze"/>
             
           </rect>
-          <title>2026-08-04: 0 contributions</title>
+          <title>2026-08-11: 0 contributions</title>
         </g>
 
         <g transform="translate(938 159)">
@@ -2865,71 +2865,71 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.177s" fill="freeze"/>
             
           </rect>
-          <title>2026-08-05: 0 contributions</title>
-        </g>
-
-        <g transform="translate(938 176)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.186s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-3.186s" repeatCount="indefinite"/>
-          </rect>
-          <title>2026-08-06: 6 contributions</title>
-        </g>
-
-        <g transform="translate(938 193)">
-          <rect width="13" height="13" rx="3" fill="#67E8F9" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.195s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="4.40s" begin="-3.195s" repeatCount="indefinite"/>
-          </rect>
-          <title>2026-08-07: 14 contributions</title>
-        </g>
-
-        <g transform="translate(938 210)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.204s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-3.204s" repeatCount="indefinite"/>
-          </rect>
-          <title>2026-08-08: 6 contributions</title>
-        </g>
-
-        <g transform="translate(955 108)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.213s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-3.213s" repeatCount="indefinite"/>
-          </rect>
-          <title>2026-08-09: 1 contribution</title>
-        </g>
-
-        <g transform="translate(955 125)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.222s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-3.222s" repeatCount="indefinite"/>
-          </rect>
-          <title>2026-08-10: 1 contribution</title>
-        </g>
-
-        <g transform="translate(955 142)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.231s" fill="freeze"/>
-            
-          </rect>
-          <title>2026-08-11: 0 contributions</title>
-        </g>
-
-        <g transform="translate(955 159)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.240s" fill="freeze"/>
-            
-          </rect>
           <title>2026-08-12: 0 contributions</title>
         </g>
 
-        <g transform="translate(955 176)">
+        <g transform="translate(938 176)">
           <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.249s" fill="freeze"/>
+            <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.186s" fill="freeze"/>
             
           </rect>
           <title>2026-08-13: 0 contributions</title>
+        </g>
+
+        <g transform="translate(938 193)">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.195s" fill="freeze"/>
+            
+          </rect>
+          <title>2026-08-14: 0 contributions</title>
+        </g>
+
+        <g transform="translate(938 210)">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.204s" fill="freeze"/>
+            
+          </rect>
+          <title>2026-08-15: 0 contributions</title>
+        </g>
+
+        <g transform="translate(955 108)">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.213s" fill="freeze"/>
+            
+          </rect>
+          <title>2026-08-16: 0 contributions</title>
+        </g>
+
+        <g transform="translate(955 125)">
+          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.222s" fill="freeze"/>
+            
+          </rect>
+          <title>2026-08-17: 0 contributions</title>
+        </g>
+
+        <g transform="translate(955 142)">
+          <rect width="13" height="13" rx="3" fill="#67E8F9" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.231s" fill="freeze"/>
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="4.40s" begin="-3.231s" repeatCount="indefinite"/>
+          </rect>
+          <title>2026-08-18: 11 contributions</title>
+        </g>
+
+        <g transform="translate(955 159)">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.240s" fill="freeze"/>
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-3.240s" repeatCount="indefinite"/>
+          </rect>
+          <title>2026-08-19: 4 contributions</title>
+        </g>
+
+        <g transform="translate(955 176)">
+          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.249s" fill="freeze"/>
+            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-3.249s" repeatCount="indefinite"/>
+          </rect>
+          <title>2026-08-20: 2 contributions</title>
         </g>
 
         <g transform="translate(955 193)">
@@ -2937,7 +2937,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.258s" fill="freeze"/>
             
           </rect>
-          <title>2026-08-14: 0 contributions</title>
+          <title>2026-08-21: 0 contributions</title>
         </g>
 
         <g transform="translate(955 210)">
@@ -2945,7 +2945,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.267s" fill="freeze"/>
             
           </rect>
-          <title>2026-08-15: 0 contributions</title>
+          <title>2026-08-22: 0 contributions</title>
         </g>
 
         <g transform="translate(972 108)">
@@ -2953,55 +2953,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.276s" fill="freeze"/>
             
           </rect>
-          <title>2026-08-16: 0 contributions</title>
-        </g>
-
-        <g transform="translate(972 125)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.285s" fill="freeze"/>
-            
-          </rect>
-          <title>2026-08-17: 0 contributions</title>
-        </g>
-
-        <g transform="translate(972 142)">
-          <rect width="13" height="13" rx="3" fill="#67E8F9" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.294s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="4.40s" begin="-3.294s" repeatCount="indefinite"/>
-          </rect>
-          <title>2026-08-18: 11 contributions</title>
-        </g>
-
-        <g transform="translate(972 159)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.303s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-3.303s" repeatCount="indefinite"/>
-          </rect>
-          <title>2026-08-19: 4 contributions</title>
-        </g>
-
-        <g transform="translate(972 176)">
-          <rect width="13" height="13" rx="3" fill="#BAE6FD" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.312s" fill="freeze"/>
-            <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="3.95s" begin="-3.312s" repeatCount="indefinite"/>
-          </rect>
-          <title>2026-08-20: 2 contributions</title>
-        </g>
-
-        <g transform="translate(972 193)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.321s" fill="freeze"/>
-            
-          </rect>
-          <title>2026-08-21: 0 contributions</title>
-        </g>
-
-        <g transform="translate(972 210)">
-          <rect width="13" height="13" rx="3" fill="#E9EEF5" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.26s" begin="3.330s" fill="freeze"/>
-            
-          </rect>
-          <title>2026-08-22: 0 contributions</title>
+          <title>2026-08-23: 0 contributions</title>
         </g>
   <g transform="translate(870 278)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#475569">
     <text x="0" y="11">Less</text>
