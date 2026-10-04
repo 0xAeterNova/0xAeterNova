@@ -227,6 +227,7 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 <!-- NEW CTF SECTION END -->
 
 # 🏅 Certifications & Achievements
+- **Writeup Challenge Winner - Locked Temple / upctf**
 - **[Writeup Challenge Winner - Locked Temple](https://github.com/0xAeterNova/upctf-writeups/blob/main/REV/Locked%20Temple/Write-Up.md)**
 <div align="center">
 <img src="./assets/trophy-1.png" alt="Trophy Screenshot" width="750" />
